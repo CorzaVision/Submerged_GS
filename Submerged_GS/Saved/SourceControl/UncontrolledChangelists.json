@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/Submerged_GS/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Unreal Projects/Submerged_GS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Unreal Projects/Submerged_GS/Content/Submerged/Blueprints/BP_Sub.uasset",
+				"D:/Unreal Projects/Submerged_GS/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Unreal Projects/Submerged_GS/Content/Submerged/Blueprints/BP_Player.uasset",
+				"D:/Unreal Projects/Submerged_GS/Content/Submerged/Blueprints/BP_Submarine.uasset",
+				"D:/Unreal Projects/Submerged_GS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+			]
+		}
+	]
+}
