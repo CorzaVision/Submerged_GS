@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/BP_SubmarinePawn.uasset",
 				"D:/Github/Projects/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/BP_Submarine.uasset",
 				"D:/Github/Projects/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/BP_SubmarinePawn.uasset",
 				"D:/Github/Projects/Submerged_GS/Submerged_GS/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
