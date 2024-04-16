@@ -1316,3 +1316,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-14.12.06:150][186]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2024.04.16-14.12.06:150][186]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2024.04.16-14.12.18:363][890]LogViewport: Scene viewport resized to 1520x1120, mode Windowed.
+[2024.04.16-14.12.51:102][163]LogDerivedDataCache: C:/Users/geema/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.453 and deleted 885 files with total size 80 MiB and 870 empty folders. Scanned 5975 files in 7182 folders with total size 215 MiB.
