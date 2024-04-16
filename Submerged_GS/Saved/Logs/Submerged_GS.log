@@ -2422,3 +2422,24 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.16-09.13.06:999][609]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGame_Auto2D03119FE40B4411CA606A6AD1B46E5B9.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Blueprints/Setup/BP_GM_MainGame_Auto2.uasset'
 [2024.04.16-09.13.07:000][609]LogFileHelpers: Auto-saving content packages took 0.010
 [2024.04.16-09.50.58:245][756]LogDerivedDataCache: C:/Users/Shaun&Em/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.233 and deleted 0 files with total size 0 MiB and 1183 empty folders. Scanned 613 files in 2242 folders with total size 62 MiB.
+[2024.04.16-10.05.45:986][515]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.04.16-10.05.45:986][515]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2024.04.16-10.05.51:015][516]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-217ms], ThreadID=4180
+[2024.04.16-10.05.51:015][516]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.04.16-11.58.43:517][516]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-6772463ms], ThreadID=4180
+[2024.04.16-11.58.44:931][516]LogAutomationController: Ignoring very large delta of 6779.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: libcurl info message cache 0 (Too old connection (6829 seconds idle), disconnect it)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: libcurl info message cache 2 (Closing connection)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: 0000091ECA87DC00: libcurl info message cache 5 (Closing connection)
+[2024.04.16-11.58.44:940][517]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0A07EBB9-4333-D21B-F03E-FBAA8A4C240C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=645b16aa451920f566bc57b32816992f%7C19e44d1a4ceb42c38200042296e9c0e4%7C1040e0b7-4e88-4591-9592-04f414610356&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.16-11.58.45:807][518]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{54d80aa5-98f0-45fe-91b2-70375ff93d04}, Name=Headphones (2- USB-C to 3.5mm Headphone Jack Adapter)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=6779792.00
+[2024.04.16-11.58.45:808][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.16-11.58.45:811][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.16-11.58.46:136][519]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4180
+[2024.04.16-11.58.46:470][520]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{54d80aa5-98f0-45fe-91b2-70375ff93d04}, Name=Headphones (2- USB-C to 3.5mm Headphone Jack Adapter)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=170.06
+[2024.04.16-11.58.46:470][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.16-11.58.46:472][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
