@@ -1317,3 +1317,1437 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-14.12.06:150][186]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2024.04.16-14.12.18:363][890]LogViewport: Scene viewport resized to 1520x1120, mode Windowed.
 [2024.04.16-14.12.51:102][163]LogDerivedDataCache: C:/Users/geema/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.453 and deleted 885 files with total size 80 MiB and 870 empty folders. Scanned 5975 files in 7182 folders with total size 215 MiB.
+[2024.04.16-14.13.04:301][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.04:361][413]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.07:132][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.13.07:222][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.07:265][572]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.006672 seconds
+[2024.04.16-14.13.07:351][572]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.16-14.13.07:351][572]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_FirstPersonCharacterB3AC9C054B80C51919C52AB80FAAA706.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.16-14.13.07:373][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms
+[2024.04.16-14.13.07:375][572]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.16-14.13.07:375][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.16-14.13.07:748][595]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.04.16-14.13.07:823][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-14.13.08:349][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.13.08:428][615]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.04.16-14.13.08:429][615]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_FirstPersonCharacterA89507E04C3DA540EA0B2CAB89F00BC9.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.04.16-14.13.08:434][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 325 ms)
+[2024.04.16-14.13.08:436][615]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.04.16-14.13.08:436][615]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.16-14.13.09:526][675]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.16-14.13.09:531][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.13.09:531][675]PIE: New page: PIE session: Main_Game (17 Apr 2024, 10:13:09 am)
+[2024.04.16-14.13.09:532][675]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.13.09:533][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001593s)
+[2024.04.16-14.13.09:533][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Main_Game.Main_Game to /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game (0.001618s)
+[2024.04.16-14.13.09:549][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.16-14.13.09:550][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.09:550][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.09:550][675]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.16-14.13.09:551][675]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2024.04.16-14.13.09:551][675]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.13.09:551][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.13.09:551][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.13.09:551][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.13.09:551][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.13.09:551][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.13.09:553][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.13.09:565][675]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.13.09:565][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.13.09:565][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.13.09:565][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.13.09:566][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.16-14.13.09:566][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.16-14.13.09:567][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.16-14.13.09:567][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.16-14.13.09:567][675]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.16-14.13.09:567][675]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Game'.
+[2024.04.16-14.13.09:568][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.16-14.13.09:594][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.09:594][675]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-14.13.09:595][675]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.13.09
+[2024.04.16-14.13.09:597][675]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.16-14.13.09:597][675]LogWorld: Bringing up level for play took: 0.002747
+[2024.04.16-14.13.09:598][675]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.16-14.13.09:598][675]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.16-14.13.09:598][675]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.16-14.13.09:598][675]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.16-14.13.09:598][675]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.09:598][675]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2024.04.16-14.13.09:598][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.13.09:598][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.13.09:598][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.13.09:599][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.13.09:601][675]PIE: Server logged in
+[2024.04.16-14.13.09:603][675]PIE: Play in editor total start time 0.072 seconds.
+[2024.04.16-14.13.09:603][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.09:603][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.09:604][675]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2024.04.16-14.13.09:604][675]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.13.09:604][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.13.09:604][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.13.09:604][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.13.09:604][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.13.09:604][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.13.09:606][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.13.09:617][675]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.13.09:617][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.13.09:618][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.13.09:618][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.13.09:618][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.16-14.13.09:618][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.16-14.13.09:619][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.16-14.13.09:619][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.16-14.13.09:619][675]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.16-14.13.09:619][675]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled'.
+[2024.04.16-14.13.09:619][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.16-14.13.09:646][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.09:646][675]LogNet: Browse: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game
+[2024.04.16-14.13.09:646][675]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.04.16-14.13.09:646][675]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.04.16-14.13.09:646][675]LogNet: IpConnection_2 setting maximum channels to: 32767
+[2024.04.16-14.13.09:646][675]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.09:647][675]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 7
+[2024.04.16-14.13.09:647][675]LogNet: Game client on port 17777, rate 100000
+[2024.04.16-14.13.09:649][675]PIE: Client logged in
+[2024.04.16-14.13.09:651][675]PIE: Play in editor total start time 0.12 seconds.
+[2024.04.16-14.13.09:685][675]LogViewport: Scene viewport resized to 1274x1308, mode Windowed.
+[2024.04.16-14.13.09:688][675]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.04.16-14.13.10:678][730]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64484
+[2024.04.16-14.13.10:678][730]LogHandshake: SendConnectChallenge. Timestamp: 1.169245, Cookie: 177105074219146227115031109032158158138230093062107171198161
+[2024.04.16-14.13.10:679][730]LogHandshake: Cached server SessionID: 0
+[2024.04.16-14.13.10:679][730]LogHandshake: SendChallengeResponse. Timestamp: 1.169245, Cookie: 177105074219146227115031109032158158138230093062107171198161
+[2024.04.16-14.13.10:696][731]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64484
+[2024.04.16-14.13.10:696][731]LogHandshake: SendChallengeAck. InCookie: 177105074219146227115031109032158158138230093062107171198161
+[2024.04.16-14.13.10:696][731]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64484
+[2024.04.16-14.13.10:696][731]LogNet: IpConnection_3 setting maximum channels to: 32767
+[2024.04.16-14.13.10:696][731]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.10:696][731]LogNet: NotifyAcceptedConnection: Name: Main_Game, TimeStamp: 04/17/24 00:13:10, [UNetConnection] RemoteAddr: 127.0.0.1:64484, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.10:696][731]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64484, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.10:697][731]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.10:712][732]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game: Accepted
+[2024.04.16-14.13.10:712][732]LogNet: Remote platform little endian=1
+[2024.04.16-14.13.10:712][732]LogNet: This platform little endian=1
+[2024.04.16-14.13.10:715][732]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.16-14.13.10:728][733]LogNet: Login request: ?Name=DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2 userId: NULL:DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2 platform: NULL
+[2024.04.16-14.13.10:729][733]LogNet: Welcomed by server (Level: /Game/Submerged/Levels/UEDPIE_0_Main_Game, Game: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C)
+[2024.04.16-14.13.10:729][733]LogLoad: LoadMap: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game?game=/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.13.10:729][733]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2024.04.16-14.13.10:729][733]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.10:729][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.10:742][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.13.10:744][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.16-14.13.10:748][733]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Game'.
+[2024.04.16-14.13.10:748][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.10:748][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.10:749][733]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2024.04.16-14.13.10:749][733]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_1_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.13.10
+[2024.04.16-14.13.10:749][733]LogWorld: Bringing up level for play took: 0.000339
+[2024.04.16-14.13.10:750][733]LogLoad: Took 0.019820 seconds to LoadMap(/Game/Submerged/Levels/Main_Game)
+[2024.04.16-14.13.10:763][734]LogNet: Client netspeed is 100000
+[2024.04.16-14.13.10:763][734]LogNet: Join request: /Game/Submerged/Levels/Main_Game?Name=DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2?SplitscreenCount=1
+[2024.04.16-14.13.10:764][734]LogNet: Join succeeded: DESKTOP-2S080BG-B02A
+[2024.04.16-14.13.21:771][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.21:771][368]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_1_Main_Game
+[2024.04.16-14.13.21:771][368]LogSlate: Window 'Submerged_GS Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.13.21:777][368]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.21:777][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.21:778][368]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2024.04.16-14.13.21:778][368]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2024.04.16-14.13.21:778][368]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2, Channels: 11, Time: 2024.04.16-14.13.21
+[2024.04.16-14.13.21:778][368]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2
+[2024.04.16-14.13.21:778][368]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2024.04.16-14.13.21:780][368]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.13.21:780][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.21:781][368]LogSlate: Window 'Submerged_GS Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.13.21:785][368]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.21:785][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.21:785][368]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2024.04.16-14.13.21:785][368]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2024.04.16-14.13.21:785][368]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.13.21:785][368]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.04.16-14.13.21:785][368]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64484, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2
+[2024.04.16-14.13.21:785][368]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64484, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2, Channels: 11, Time: 2024.04.16-14.13.21
+[2024.04.16-14.13.21:785][368]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.13.21:785][368]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.04.16-14.13.21:785][368]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64484, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-B02A741242C86E47549B8E9A6CE31BF2
+[2024.04.16-14.13.21:786][368]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2024.04.16-14.13.21:788][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.13.21:793][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.21:806][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.16-14.13.21:806][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.16-14.13.21:808][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.16-14.13.21:813][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.16-14.13.21:813][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.16-14.13.21:814][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.16-14.13.21:819][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.16-14.13.21:882][369]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.16-14.13.21:882][369]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.16-14.13.24:590][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.13.24:590][528]PIE: New page: PIE session: Main_Game (17 Apr 2024, 10:13:24 am)
+[2024.04.16-14.13.24:590][528]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.13.24:593][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001668s)
+[2024.04.16-14.13.24:593][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Main_Game.Main_Game to /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game (0.001697s)
+[2024.04.16-14.13.24:605][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.16-14.13.24:606][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.24:606][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.24:607][528]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.16-14.13.24:607][528]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2024.04.16-14.13.24:607][528]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.13.24:607][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.13.24:607][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.13.24:608][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.13.24:608][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.13.24:608][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.13.24:610][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.13.24:620][528]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.13.24:621][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.13.24:621][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.13.24:621][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.13.24:622][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.16-14.13.24:622][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.16-14.13.24:623][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.16-14.13.24:623][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.16-14.13.24:623][528]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.16-14.13.24:623][528]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Game'.
+[2024.04.16-14.13.24:624][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.16-14.13.24:626][528]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-14.13.24:626][528]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.13.24
+[2024.04.16-14.13.24:628][528]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.16-14.13.24:628][528]LogWorld: Bringing up level for play took: 0.001861
+[2024.04.16-14.13.24:629][528]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.16-14.13.24:629][528]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.16-14.13.24:629][528]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.16-14.13.24:629][528]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.16-14.13.24:629][528]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.24:629][528]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2024.04.16-14.13.24:629][528]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.13.24:629][528]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.13.24:629][528]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.13.24:630][528]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.13.24:630][528]PIE: Server logged in
+[2024.04.16-14.13.24:631][528]PIE: Play in editor total start time 0.041 seconds.
+[2024.04.16-14.13.24:631][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.24:632][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.24:632][528]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2024.04.16-14.13.24:632][528]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.13.24:632][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.13.24:632][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.13.24:633][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.13.24:633][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.13.24:633][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.13.24:634][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.13.24:645][528]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.13.24:645][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.13.24:645][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.13.24:645][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.13.24:646][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.16-14.13.24:646][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.16-14.13.24:647][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.16-14.13.24:647][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.16-14.13.24:647][528]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.16-14.13.24:647][528]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled'.
+[2024.04.16-14.13.24:647][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.16-14.13.24:663][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.24:663][528]LogNet: Browse: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game
+[2024.04.16-14.13.24:663][528]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.04.16-14.13.24:663][528]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.04.16-14.13.24:663][528]LogNet: IpConnection_4 setting maximum channels to: 32767
+[2024.04.16-14.13.24:664][528]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.24:665][528]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 0
+[2024.04.16-14.13.24:665][528]LogNet: Game client on port 17777, rate 100000
+[2024.04.16-14.13.24:667][528]PIE: Client logged in
+[2024.04.16-14.13.24:668][528]PIE: Play in editor total start time 0.078 seconds.
+[2024.04.16-14.13.24:679][528]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.04.16-14.13.25:684][581]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51050
+[2024.04.16-14.13.25:684][581]LogHandshake: SendConnectChallenge. Timestamp: 1.120577, Cookie: 234193031184076003127105206150000112223013006004011154105111
+[2024.04.16-14.13.25:684][581]LogHandshake: Cached server SessionID: 0
+[2024.04.16-14.13.25:684][581]LogHandshake: SendChallengeResponse. Timestamp: 1.120577, Cookie: 234193031184076003127105206150000112223013006004011154105111
+[2024.04.16-14.13.25:700][582]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51050
+[2024.04.16-14.13.25:700][582]LogHandshake: SendChallengeAck. InCookie: 234193031184076003127105206150000112223013006004011154105111
+[2024.04.16-14.13.25:700][582]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51050
+[2024.04.16-14.13.25:700][582]LogNet: IpConnection_5 setting maximum channels to: 32767
+[2024.04.16-14.13.25:700][582]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.25:700][582]LogNet: NotifyAcceptedConnection: Name: Main_Game, TimeStamp: 04/17/24 00:13:25, [UNetConnection] RemoteAddr: 127.0.0.1:51050, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.25:700][582]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51050, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.25:702][582]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.25:717][583]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game: Accepted
+[2024.04.16-14.13.25:717][583]LogNet: Remote platform little endian=1
+[2024.04.16-14.13.25:717][583]LogNet: This platform little endian=1
+[2024.04.16-14.13.25:721][583]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.16-14.13.25:734][584]LogNet: Login request: ?Name=DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C userId: NULL:DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C platform: NULL
+[2024.04.16-14.13.25:735][584]LogNet: Welcomed by server (Level: /Game/Submerged/Levels/UEDPIE_0_Main_Game, Game: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C)
+[2024.04.16-14.13.25:735][584]LogLoad: LoadMap: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game?game=/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.13.25:735][584]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2024.04.16-14.13.25:735][584]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.25:735][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.25:746][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.13.25:747][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.16-14.13.25:751][584]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Game'.
+[2024.04.16-14.13.25:751][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.25:751][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.25:752][584]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2024.04.16-14.13.25:752][584]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_1_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.13.25
+[2024.04.16-14.13.25:752][584]LogWorld: Bringing up level for play took: 0.000351
+[2024.04.16-14.13.25:752][584]LogLoad: Took 0.017825 seconds to LoadMap(/Game/Submerged/Levels/Main_Game)
+[2024.04.16-14.13.25:767][585]LogNet: Client netspeed is 100000
+[2024.04.16-14.13.25:767][585]LogNet: Join request: /Game/Submerged/Levels/Main_Game?Name=DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C?SplitscreenCount=1
+[2024.04.16-14.13.25:767][585]LogNet: Join succeeded: DESKTOP-2S080BG-9786
+[2024.04.16-14.13.42:821][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.42:821][403]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_1_Main_Game
+[2024.04.16-14.13.42:821][403]LogSlate: Window 'Submerged_GS Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.13.42:825][403]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.42:825][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.42:825][403]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2024.04.16-14.13.42:825][403]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2024.04.16-14.13.42:825][403]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C, Channels: 11, Time: 2024.04.16-14.13.42
+[2024.04.16-14.13.42:825][403]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C
+[2024.04.16-14.13.42:825][403]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2024.04.16-14.13.42:827][403]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.13.42:827][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.42:828][403]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.42:828][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.42:830][403]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2024.04.16-14.13.42:830][403]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2024.04.16-14.13.42:830][403]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.13.42:830][403]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.04.16-14.13.42:830][403]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51050, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C
+[2024.04.16-14.13.42:830][403]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51050, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C, Channels: 11, Time: 2024.04.16-14.13.42
+[2024.04.16-14.13.42:830][403]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.13.42:830][403]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.04.16-14.13.42:830][403]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51050, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-9786317447B303CCA64039BF905A669C
+[2024.04.16-14.13.42:830][403]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2024.04.16-14.13.42:831][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.13.42:835][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.42:846][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.16-14.13.42:846][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.16-14.13.42:848][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.16-14.13.42:852][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.42:852][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.16-14.13.42:852][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.16-14.13.42:853][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.16-14.13.42:859][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.16-14.13.42:926][404]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.16-14.13.42:926][404]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.16-14.13.43:991][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-14.13.43:996][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.13.43:996][466]PIE: New page: PIE session: Main_Game (17 Apr 2024, 10:13:43 am)
+[2024.04.16-14.13.43:996][466]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.13.43:998][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001555s)
+[2024.04.16-14.13.43:998][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Main_Game.Main_Game to /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game (0.001581s)
+[2024.04.16-14.13.44:009][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.16-14.13.44:010][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.44:010][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.44:010][466]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.16-14.13.44:012][466]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2024.04.16-14.13.44:012][466]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.13.44:012][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.13.44:012][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.13.44:013][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.13.44:013][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.13.44:013][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.13.44:015][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.13.44:025][466]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.13.44:026][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.13.44:026][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.13.44:026][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.13.44:027][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.16-14.13.44:027][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.16-14.13.44:028][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.16-14.13.44:028][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.16-14.13.44:028][466]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.16-14.13.44:028][466]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_Game'.
+[2024.04.16-14.13.44:028][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.16-14.13.44:031][466]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-14.13.44:031][466]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.13.44
+[2024.04.16-14.13.44:033][466]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.16-14.13.44:033][466]LogWorld: Bringing up level for play took: 0.002013
+[2024.04.16-14.13.44:034][466]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.16-14.13.44:034][466]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.16-14.13.44:034][466]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.16-14.13.44:034][466]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.16-14.13.44:034][466]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.44:034][466]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2024.04.16-14.13.44:034][466]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.13.44:034][466]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.13.44:034][466]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.13.44:035][466]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.13.44:035][466]PIE: Server logged in
+[2024.04.16-14.13.44:036][466]PIE: Play in editor total start time 0.04 seconds.
+[2024.04.16-14.13.44:037][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.44:037][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.44:037][466]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2024.04.16-14.13.44:037][466]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.13.44:037][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.13.44:037][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.13.44:038][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.13.44:038][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.13.44:038][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.13.44:039][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.13.44:049][466]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.13.44:049][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.13.44:049][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.13.44:049][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.13.44:051][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.16-14.13.44:051][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.16-14.13.44:051][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.16-14.13.44:051][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.16-14.13.44:052][466]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.16-14.13.44:052][466]LogAudio: Display: Audio Device (ID: 9) registered with world 'Untitled'.
+[2024.04.16-14.13.44:052][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.16-14.13.44:072][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.44:072][466]LogNet: Browse: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game
+[2024.04.16-14.13.44:072][466]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.04.16-14.13.44:072][466]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.04.16-14.13.44:072][466]LogNet: IpConnection_6 setting maximum channels to: 32767
+[2024.04.16-14.13.44:072][466]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.44:073][466]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 1
+[2024.04.16-14.13.44:073][466]LogNet: Game client on port 17777, rate 100000
+[2024.04.16-14.13.44:075][466]PIE: Client logged in
+[2024.04.16-14.13.44:077][466]PIE: Play in editor total start time 0.081 seconds.
+[2024.04.16-14.13.44:088][466]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.04.16-14.13.45:206][515]LogViewport: Scene viewport resized to 1271x1308, mode Windowed.
+[2024.04.16-14.13.45:302][516]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63556
+[2024.04.16-14.13.45:302][516]LogHandshake: SendConnectChallenge. Timestamp: 1.326950, Cookie: 179090163076164218225004167251023157082043091087110012008206
+[2024.04.16-14.13.45:303][516]LogHandshake: Cached server SessionID: 0
+[2024.04.16-14.13.45:303][516]LogHandshake: SendChallengeResponse. Timestamp: 1.326950, Cookie: 179090163076164218225004167251023157082043091087110012008206
+[2024.04.16-14.13.45:635][517]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63556
+[2024.04.16-14.13.45:635][517]LogHandshake: SendChallengeAck. InCookie: 179090163076164218225004167251023157082043091087110012008206
+[2024.04.16-14.13.45:635][517]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63556
+[2024.04.16-14.13.45:635][517]LogNet: IpConnection_7 setting maximum channels to: 32767
+[2024.04.16-14.13.45:635][517]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.13.45:635][517]LogNet: NotifyAcceptedConnection: Name: Main_Game, TimeStamp: 04/17/24 00:13:45, [UNetConnection] RemoteAddr: 127.0.0.1:63556, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.45:635][517]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63556, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.45:636][517]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.13.45:826][518]LogViewport: Scene viewport resized to 1001x745, mode Windowed.
+[2024.04.16-14.13.45:969][518]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game: Accepted
+[2024.04.16-14.13.45:969][518]LogNet: Remote platform little endian=1
+[2024.04.16-14.13.45:969][518]LogNet: This platform little endian=1
+[2024.04.16-14.13.45:972][518]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.04.16-14.13.45:985][519]LogNet: Login request: ?Name=DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158 userId: NULL:DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158 platform: NULL
+[2024.04.16-14.13.45:986][519]LogNet: Welcomed by server (Level: /Game/Submerged/Levels/UEDPIE_0_Main_Game, Game: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C)
+[2024.04.16-14.13.45:986][519]LogLoad: LoadMap: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game?game=/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.13.45:986][519]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2024.04.16-14.13.45:986][519]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.45:986][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.45:999][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.13.46:001][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.16-14.13.46:005][519]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main_Game'.
+[2024.04.16-14.13.46:005][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.13.46:005][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.13.46:006][519]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2024.04.16-14.13.46:007][519]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_1_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.13.46
+[2024.04.16-14.13.46:007][519]LogWorld: Bringing up level for play took: 0.000484
+[2024.04.16-14.13.46:007][519]LogLoad: Took 0.021187 seconds to LoadMap(/Game/Submerged/Levels/Main_Game)
+[2024.04.16-14.13.46:020][520]LogNet: Client netspeed is 100000
+[2024.04.16-14.13.46:021][520]LogNet: Join request: /Game/Submerged/Levels/Main_Game?Name=DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158?SplitscreenCount=1
+[2024.04.16-14.13.46:021][520]LogNet: Join succeeded: DESKTOP-2S080BG-C1F0
+[2024.04.16-14.13.53:371][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.53:371][890]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_1_Main_Game
+[2024.04.16-14.13.53:371][890]LogSlate: Window 'Submerged_GS Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.13.53:378][890]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.53:378][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.53:379][890]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2024.04.16-14.13.53:379][890]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2024.04.16-14.13.53:379][890]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158, Channels: 11, Time: 2024.04.16-14.13.53
+[2024.04.16-14.13.53:379][890]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158
+[2024.04.16-14.13.53:379][890]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2024.04.16-14.13.53:380][890]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.13.53:382][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.53:382][890]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.13.53:382][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.53:384][890]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2024.04.16-14.13.53:384][890]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2024.04.16-14.13.53:384][890]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.13.53:384][890]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.04.16-14.13.53:384][890]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63556, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158
+[2024.04.16-14.13.53:385][890]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63556, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158, Channels: 11, Time: 2024.04.16-14.13.53
+[2024.04.16-14.13.53:385][890]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.13.53:385][890]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.04.16-14.13.53:385][890]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63556, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-C1F08BA84E282037544295AB23F3E158
+[2024.04.16-14.13.53:385][890]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2024.04.16-14.13.53:386][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.13.53:391][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.13.53:405][890]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.16-14.13.53:405][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.16-14.13.53:407][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.16-14.13.53:410][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.13.53:410][890]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.16-14.13.53:410][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.16-14.13.53:411][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.16-14.13.53:417][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-14.13.53:478][891]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.16-14.13.53:478][891]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.16-14.13.54:782][964]LogViewport: Scene viewport resized to 1534x574, mode Windowed.
+[2024.04.16-14.13.56:781][ 45]LogViewport: Scene viewport resized to 2032x750, mode Windowed.
+[2024.04.16-14.14.05:228][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.14.05:228][546]PIE: New page: PIE session: Main_Game (17 Apr 2024, 10:14:05 am)
+[2024.04.16-14.14.05:228][546]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.14.05:229][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001679s)
+[2024.04.16-14.14.05:229][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Main_Game.Main_Game to /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game (0.001710s)
+[2024.04.16-14.14.05:241][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-14.14.05:242][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.14.05:242][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.14.05:243][546]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.16-14.14.05:243][546]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2024.04.16-14.14.05:243][546]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.14.05:243][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.14.05:243][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.14.05:244][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.14.05:244][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.14.05:244][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.14.05:246][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.14.05:258][546]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.14.05:258][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.14.05:258][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.14.05:258][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.14.05:259][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.16-14.14.05:259][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.16-14.14.05:260][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.16-14.14.05:260][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.16-14.14.05:260][546]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.16-14.14.05:260][546]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main_Game'.
+[2024.04.16-14.14.05:260][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.16-14.14.05:288][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.14.05:288][546]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-14.14.05:288][546]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.14.05
+[2024.04.16-14.14.05:291][546]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.16-14.14.05:291][546]LogWorld: Bringing up level for play took: 0.002960
+[2024.04.16-14.14.05:292][546]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.16-14.14.05:292][546]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.16-14.14.05:292][546]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.16-14.14.05:292][546]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.16-14.14.05:292][546]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.14.05:292][546]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2024.04.16-14.14.05:292][546]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.14.05:292][546]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.14.05:292][546]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.14.05:294][546]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.14.05:296][546]PIE: Server logged in
+[2024.04.16-14.14.05:298][546]PIE: Play in editor total start time 0.07 seconds.
+[2024.04.16-14.14.05:298][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.14.05:298][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.14.05:299][546]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2024.04.16-14.14.05:299][546]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.14.05:299][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.14.05:299][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.14.05:299][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.14.05:299][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.14.05:299][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.14.05:302][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.14.05:312][546]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.14.05:312][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.14.05:312][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.14.05:312][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.14.05:313][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.16-14.14.05:313][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.16-14.14.05:314][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.16-14.14.05:314][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.16-14.14.05:315][546]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.16-14.14.05:315][546]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled'.
+[2024.04.16-14.14.05:315][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.16-14.14.05:340][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.14.05:340][546]LogNet: Browse: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game
+[2024.04.16-14.14.05:340][546]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.04.16-14.14.05:340][546]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.04.16-14.14.05:340][546]LogNet: IpConnection_8 setting maximum channels to: 32767
+[2024.04.16-14.14.05:340][546]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.14.05:341][546]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2024.04.16-14.14.05:341][546]LogNet: Game client on port 17777, rate 100000
+[2024.04.16-14.14.05:343][546]PIE: Client logged in
+[2024.04.16-14.14.05:345][546]PIE: Play in editor total start time 0.117 seconds.
+[2024.04.16-14.14.05:500][546]LogViewport: Scene viewport resized to 1277x1308, mode Windowed.
+[2024.04.16-14.14.05:504][546]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.04.16-14.14.06:359][588]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61957
+[2024.04.16-14.14.06:359][588]LogHandshake: SendConnectChallenge. Timestamp: 1.159605, Cookie: 171116087057043149158242178220151215072062252139131007119143
+[2024.04.16-14.14.06:359][588]LogHandshake: Cached server SessionID: 0
+[2024.04.16-14.14.06:359][588]LogHandshake: SendChallengeResponse. Timestamp: 1.159605, Cookie: 171116087057043149158242178220151215072062252139131007119143
+[2024.04.16-14.14.06:375][589]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61957
+[2024.04.16-14.14.06:375][589]LogHandshake: SendChallengeAck. InCookie: 171116087057043149158242178220151215072062252139131007119143
+[2024.04.16-14.14.06:375][589]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61957
+[2024.04.16-14.14.06:375][589]LogNet: IpConnection_9 setting maximum channels to: 32767
+[2024.04.16-14.14.06:376][589]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.14.06:376][589]LogNet: NotifyAcceptedConnection: Name: Main_Game, TimeStamp: 04/17/24 00:14:06, [UNetConnection] RemoteAddr: 127.0.0.1:61957, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.14.06:376][589]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61957, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.14.06:377][589]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.14.06:392][590]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game: Accepted
+[2024.04.16-14.14.06:392][590]LogNet: Remote platform little endian=1
+[2024.04.16-14.14.06:392][590]LogNet: This platform little endian=1
+[2024.04.16-14.14.06:395][590]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.16-14.14.06:409][591]LogNet: Login request: ?Name=DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829 userId: NULL:DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829 platform: NULL
+[2024.04.16-14.14.06:410][591]LogNet: Welcomed by server (Level: /Game/Submerged/Levels/UEDPIE_0_Main_Game, Game: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C)
+[2024.04.16-14.14.06:410][591]LogLoad: LoadMap: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game?game=/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.14.06:410][591]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2024.04.16-14.14.06:410][591]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.14.06:410][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.14.06:422][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.14.06:424][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.16-14.14.06:429][591]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main_Game'.
+[2024.04.16-14.14.06:429][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.14.06:429][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.14.06:429][591]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2024.04.16-14.14.06:430][591]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_1_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.17-00.14.06
+[2024.04.16-14.14.06:430][591]LogWorld: Bringing up level for play took: 0.000399
+[2024.04.16-14.14.06:430][591]LogLoad: Took 0.020321 seconds to LoadMap(/Game/Submerged/Levels/Main_Game)
+[2024.04.16-14.14.06:446][592]LogNet: Client netspeed is 100000
+[2024.04.16-14.14.06:446][592]LogNet: Join request: /Game/Submerged/Levels/Main_Game?Name=DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829?SplitscreenCount=1
+[2024.04.16-14.14.06:446][592]LogNet: Join succeeded: DESKTOP-2S080BG-3ECA
+[2024.04.16-14.14.17:590][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.14.17:590][137]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_1_Main_Game
+[2024.04.16-14.14.17:591][137]LogSlate: Window 'Submerged_GS Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.14.17:596][137]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.14.17:596][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.14.17:597][137]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2024.04.16-14.14.17:597][137]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2024.04.16-14.14.17:597][137]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829, Channels: 11, Time: 2024.04.16-14.14.17
+[2024.04.16-14.14.17:597][137]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829
+[2024.04.16-14.14.17:597][137]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2024.04.16-14.14.17:598][137]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-14.14.17:600][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.14.17:600][137]LogSlate: Window 'Submerged_GS Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.14.17:603][137]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.14.17:603][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.14.17:604][137]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2024.04.16-14.14.17:604][137]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2024.04.16-14.14.17:604][137]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.14.17:604][137]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.04.16-14.14.17:604][137]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:61957, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829
+[2024.04.16-14.14.17:604][137]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61957, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829, Channels: 11, Time: 2024.04.16-14.14.17
+[2024.04.16-14.14.17:604][137]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.14.17:604][137]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.04.16-14.14.17:604][137]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61957, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-3ECAD7D64A7E48ACD311A09BDBB8D829
+[2024.04.16-14.14.17:604][137]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2024.04.16-14.14.17:606][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.14.17:610][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.14.17:623][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.16-14.14.17:623][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.16-14.14.17:625][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.16-14.14.17:628][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.16-14.14.17:628][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.16-14.14.17:630][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.16-14.14.17:636][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.16-14.14.17:726][138]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.16-14.14.17:726][138]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 0 (Found bundle for host: 0xbac79950000 [serially])
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 6 (Closing connection)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 9 (  Trying 107.22.173.102:443...)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (107.22.173.102) port 443)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 25 (Server certificate:)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 34 (Closing connection)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: 00000BACEB318200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.27.25:614][663]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.16-14.38.08:904][832]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.04.16-14.38.08:910][832]LogContentBrowser: Creating deferred item: NewWorld
+[2024.04.16-14.38.08:919][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.04.16-14.38.13:579][111]LogContentBrowser: Attempting asset rename: NewWorld -> Main_Menu
+[2024.04.16-14.38.13:657][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.38.13:657][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.38.13:659][111]LogContentBrowser: End creating deferred item NewWorld
+[2024.04.16-14.38.15:021][191]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Submerged/Levels/Main_Menu does not exist, will not scan.
+[2024.04.16-14.38.16:682][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.16-14.38.18:089][284]LogSlate: Window 'Save Content' being destroyed
+[2024.04.16-14.38.18:169][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.38.18:205][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.16-14.38.18:208][284]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Main_Menu
+[2024.04.16-14.38.18:208][284]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/Main_Menu1EA4ACD046071CD9F7944E9A0697A73D.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Main_Menu.umap'
+[2024.04.16-14.38.18:321][284]LogFileHelpers: Saving map 'Main_Menu' took 0.130
+[2024.04.16-14.38.18:324][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 481 ms)
+[2024.04.16-14.38.18:324][284]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Main_Menu.Main_Menu
+[2024.04.16-14.38.18:324][284]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-14.38.18:324][284]LightingResults: New page: Lighting Build
+[2024.04.16-14.38.18:324][284]LoadErrors: New page: Loading map: Main_Menu.umap
+[2024.04.16-14.38.18:340][284]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.38.18:340][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.38.18:340][284]MapCheck: New page: Map Check
+[2024.04.16-14.38.18:340][284]LightingResults: New page: Lighting Build
+[2024.04.16-14.38.18:352][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.38.18:354][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.16-14.38.18:355][284]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.38.18:355][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.38.18:372][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-14.38.18:386][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-14.38.18:389][284]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.04.16-14.38.18:389][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.38.18:389][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.38.18:390][284]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.38.18:423][284]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-14.38.18:439][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.16-14.38.18:442][284]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-14.38.18:443][284]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2024.04.16-14.38.18:447][284]AssetCheck: New page: Asset Save: Main_Menu
+[2024.04.16-14.38.18:447][284]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Main_Menu.Main_Menu
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 0 (Found bundle for host: 0xbac79950de0 [serially])
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 6 (Closing connection)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: 00000BACD82C0A00: libcurl info message cache 10 (Closing connection)
+[2024.04.16-14.42.33:303][125]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.16-14.42.44:205][689]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.16-14.42.44:211][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.42.44:211][689]PIE: New page: PIE session: Main_Menu (17 Apr 2024, 10:42:44 am)
+[2024.04.16-14.42.44:211][689]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/UEDPIE_0_Main_Menu
+[2024.04.16-14.42.44:212][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000801s)
+[2024.04.16-14.42.44:212][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Main_Menu.Main_Menu to /Game/Submerged/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.000833s)
+[2024.04.16-14.42.44:227][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.16-14.42.44:229][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.42.44:229][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.42.44:230][689]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.42.44:230][689]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2024.04.16-14.42.44:230][689]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.42.44:230][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.42.44:230][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.42.44:231][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.42.44:231][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.42.44:231][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.42.44:233][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.42.44:247][689]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.42.44:247][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.42.44:247][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.42.44:247][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.42.44:247][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.16-14.42.44:247][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.16-14.42.44:249][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.16-14.42.44:249][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.16-14.42.44:249][689]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.16-14.42.44:249][689]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main_Menu'.
+[2024.04.16-14.42.44:249][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.16-14.42.44:276][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.42.44:277][689]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-14.42.44:277][689]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 60) at 2024.04.17-00.42.44
+[2024.04.16-14.42.44:279][689]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.04.16-14.42.44:279][689]LogWorld: Bringing up level for play took: 0.002474
+[2024.04.16-14.42.44:280][689]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.16-14.42.44:280][689]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.16-14.42.44:280][689]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.16-14.42.44:280][689]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.16-14.42.44:280][689]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.42.44:280][689]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2024.04.16-14.42.44:280][689]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.42.44:280][689]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.42.44:280][689]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.42.44:282][689]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.42.44:285][689]PIE: Server logged in
+[2024.04.16-14.42.44:286][689]PIE: Play in editor total start time 0.074 seconds.
+[2024.04.16-14.42.44:286][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.42.44:286][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.42.44:287][689]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2024.04.16-14.42.44:287][689]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.42.44:287][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.42.44:287][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.42.44:287][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.42.44:287][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.42.44:287][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.42.44:289][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.42.44:300][689]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.42.44:300][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.42.44:301][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.42.44:301][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.42.44:302][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.16-14.42.44:302][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.16-14.42.44:303][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.16-14.42.44:303][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.16-14.42.44:303][689]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.16-14.42.44:303][689]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2024.04.16-14.42.44:303][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.16-14.42.44:328][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.42.44:329][689]LogNet: Browse: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game
+[2024.04.16-14.42.44:329][689]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.04.16-14.42.44:329][689]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.04.16-14.42.44:329][689]LogNet: IpConnection_10 setting maximum channels to: 32767
+[2024.04.16-14.42.44:329][689]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.42.44:330][689]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2024.04.16-14.42.44:330][689]LogNet: Game client on port 17777, rate 100000
+[2024.04.16-14.42.44:332][689]PIE: Client logged in
+[2024.04.16-14.42.44:334][689]PIE: Play in editor total start time 0.122 seconds.
+[2024.04.16-14.42.44:343][689]LogViewport: Scene viewport resized to 1280x1308, mode Windowed.
+[2024.04.16-14.42.44:359][689]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.04.16-14.42.45:347][741]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49666
+[2024.04.16-14.42.45:347][741]LogHandshake: SendConnectChallenge. Timestamp: 1.157314, Cookie: 141072142248019131098091011249223082034219112133111027160057
+[2024.04.16-14.42.45:347][741]LogHandshake: Cached server SessionID: 0
+[2024.04.16-14.42.45:347][741]LogHandshake: SendChallengeResponse. Timestamp: 1.157314, Cookie: 141072142248019131098091011249223082034219112133111027160057
+[2024.04.16-14.42.45:364][742]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49666
+[2024.04.16-14.42.45:364][742]LogHandshake: SendChallengeAck. InCookie: 141072142248019131098091011249223082034219112133111027160057
+[2024.04.16-14.42.45:364][742]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49666
+[2024.04.16-14.42.45:364][742]LogNet: IpConnection_11 setting maximum channels to: 32767
+[2024.04.16-14.42.45:364][742]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.42.45:364][742]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/17/24 00:42:45, [UNetConnection] RemoteAddr: 127.0.0.1:49666, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.42.45:364][742]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49666, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.42.45:365][742]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.42.45:380][743]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Submerged/Levels/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2024.04.16-14.42.45:381][743]LogNet: Remote platform little endian=1
+[2024.04.16-14.42.45:381][743]LogNet: This platform little endian=1
+[2024.04.16-14.42.45:383][743]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.04.16-14.42.45:398][744]LogNet: Login request: ?Name=DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243 userId: NULL:DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243 platform: NULL
+[2024.04.16-14.42.45:398][744]LogNet: Welcomed by server (Level: /Game/Submerged/Levels/UEDPIE_0_Main_Menu, Game: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C)
+[2024.04.16-14.42.45:398][744]LogLoad: LoadMap: 127.0.0.1:17777/Game/Submerged/Levels/Main_Menu?game=/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.42.45:398][744]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2024.04.16-14.42.45:398][744]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.42.45:399][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.42.45:411][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.42.45:413][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-14.42.45:415][744]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main_Menu'.
+[2024.04.16-14.42.45:415][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.42.45:415][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.42.45:417][744]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2024.04.16-14.42.45:417][744]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 60) at 2024.04.17-00.42.45
+[2024.04.16-14.42.45:417][744]LogWorld: Bringing up level for play took: 0.000151
+[2024.04.16-14.42.45:417][744]LogLoad: Took 0.018565 seconds to LoadMap(/Game/Submerged/Levels/Main_Menu)
+[2024.04.16-14.42.45:427][745]LogNet: Client netspeed is 100000
+[2024.04.16-14.42.45:427][745]LogNet: Join request: /Game/Submerged/Levels/Main_Game?Name=DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243?SplitscreenCount=1
+[2024.04.16-14.42.45:428][745]LogNet: Join succeeded: DESKTOP-2S080BG-6D0F
+[2024.04.16-14.42.46:028][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.42.46:028][773]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_1_Main_Menu
+[2024.04.16-14.42.46:028][773]LogSlate: Window 'Submerged_GS Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.42.46:032][773]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.42.46:032][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.42.46:033][773]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2024.04.16-14.42.46:033][773]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2024.04.16-14.42.46:033][773]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243, Channels: 10, Time: 2024.04.16-14.42.46
+[2024.04.16-14.42.46:033][773]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243
+[2024.04.16-14.42.46:033][773]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2024.04.16-14.42.46:035][773]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_0_Main_Menu
+[2024.04.16-14.42.46:035][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.42.46:035][773]LogSlate: Window 'Submerged_GS Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.42.46:040][773]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.42.46:040][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.42.46:040][773]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2024.04.16-14.42.46:040][773]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2024.04.16-14.42.46:040][773]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.42.46:040][773]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.04.16-14.42.46:040][773]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49666, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243
+[2024.04.16-14.42.46:040][773]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49666, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243, Channels: 10, Time: 2024.04.16-14.42.46
+[2024.04.16-14.42.46:041][773]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.42.46:041][773]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.04.16-14.42.46:041][773]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49666, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-6D0FC491475FC13BBC12A6857C69A243
+[2024.04.16-14.42.46:041][773]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2024.04.16-14.42.46:043][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.42.46:047][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.42.46:060][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.16-14.42.46:060][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.16-14.42.46:062][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.16-14.42.46:068][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.16-14.42.46:068][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.16-14.42.46:069][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.16-14.42.46:076][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.16-14.42.46:091][774]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.04.16-14.42.46:091][774]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.04.16-14.46.10:551][940]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.16-14.46.14:741][171]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-14.46.14:747][171]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-14.46.14:757][172]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.16-14.46.18:492][393]LogContentBrowser: Attempting asset rename: NewFolder -> Menu
+[2024.04.16-14.46.18:492][393]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-14.46.21:643][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.46.21:705][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.16-14.46.21:707][546]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Menu/Main_Menu
+[2024.04.16-14.46.21:707][546]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/Main_Menu057C0D734A40F187C8A862827518E477.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap'
+[2024.04.16-14.46.21:819][546]LogFileHelpers: Saving map 'Main_Menu' took 0.147
+[2024.04.16-14.46.21:823][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 660 ms)
+[2024.04.16-14.46.21:985][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.16-14.46.21:998][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.16-14.46.22:012][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.16-14.46.22:117][546]SourceControl: rm 'Submerged_GS/Content/Submerged/Levels/Main_Menu.umap'
+[2024.04.16-14.46.22:130][546]AssetCheck: New page: Asset Save: Main_Menu
+[2024.04.16-14.46.22:130][546]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu
+[2024.04.16-14.46.42:427][567]LogSlate: Window 'Message' being destroyed
+[2024.04.16-14.46.42:471][567]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_GM_MainGame
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame:Find_PlayerStart.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame:Find_PlayerStart.K2Node_FunctionResult_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame:Spawn_Player.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C:K2_PostLogin' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C:K2_OnLogout' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C:K2_OnSwapPlayerControllers' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C:Find_PlayerStart' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C:Spawn_Player' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C:K2_PostLogin' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C:K2_OnSwapPlayerControllers' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C:K2_OnLogout' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C:UserConstructionScript' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C:Find_PlayerStart' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:877][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GM_MainGame.SKEL_BP_GM_MainGame_C:Spawn_Player' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GM_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:888][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GS_MainGame.BP_GS_MainGame:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:888][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GS_MainGame.BP_GS_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:888][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GS_MainGame.SKEL_BP_GS_MainGame_C:UserConstructionScript' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:888][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_GS_MainGame.SKEL_BP_GS_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_GS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.BP_PC_MainGame:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.BP_PC_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.SKEL_BP_PC_MainGame_C:ReceiveBeginPlay' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.SKEL_BP_PC_MainGame_C:SR_SpawnPlayer' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.SKEL_BP_PC_MainGame_C:Assign_Input_Map' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.SKEL_BP_PC_MainGame_C:UserConstructionScript' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.SKEL_BP_PC_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:895][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PC_MainGame.BP_PC_MainGame_C:ReceiveBeginPlay' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PC_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.BP_PS_MainGame:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.BP_PS_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.BP_PS_MainGame:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.BP_PS_MainGame:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.SKEL_BP_PS_MainGame_C:ReceiveBeginPlay' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.SKEL_BP_PS_MainGame_C:ReceiveTick' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.SKEL_BP_PS_MainGame_C:UserConstructionScript' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:903][567]LogMetaData: Removing '/Game/Submerged/Levels/BP_PS_MainGame.SKEL_BP_PS_MainGame_C' ref from Metadata '/Game/Submerged/Blueprints/Setup/BP_PS_MainGame.PackageMetaData'
+[2024.04.16-14.46.42:904][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.46.42:938][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Levels/BP_GM_MainGame" FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_GM_MainGame.uasset" SILENT=true
+[2024.04.16-14.46.42:946][567]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/BP_GM_MainGame
+[2024.04.16-14.46.42:946][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGame16D0CAA341E7E63EC4DFBEBC794556F0.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_GM_MainGame.uasset'
+[2024.04.16-14.46.42:952][567]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame
+[2024.04.16-14.46.42:953][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGameA1B58B024BCFD5B6758633B4F367FE47.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_GM_MainGame.uasset'
+[2024.04.16-14.46.42:955][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Levels/BP_GS_MainGame" FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_GS_MainGame.uasset" SILENT=true
+[2024.04.16-14.46.42:955][567]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Submerged/Levels/BP_GS_MainGame does not exist, will not scan.
+[2024.04.16-14.46.42:958][567]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/BP_GS_MainGame
+[2024.04.16-14.46.42:958][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GS_MainGame5EF3531E4496EB53F1B5EEB9B576900D.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_GS_MainGame.uasset'
+[2024.04.16-14.46.42:963][567]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_GS_MainGame
+[2024.04.16-14.46.42:963][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GS_MainGameA71B3AB84905E5DB51A02F96DEBD42F0.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_GS_MainGame.uasset'
+[2024.04.16-14.46.42:965][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Levels/BP_PC_MainGame" FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_PC_MainGame.uasset" SILENT=true
+[2024.04.16-14.46.42:965][567]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Submerged/Levels/BP_PC_MainGame does not exist, will not scan.
+[2024.04.16-14.46.42:971][567]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/BP_PC_MainGame
+[2024.04.16-14.46.42:971][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_PC_MainGameD70BD8874CF64F4AE392B88E86B0EF49.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_PC_MainGame.uasset'
+[2024.04.16-14.46.42:976][567]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_PC_MainGame
+[2024.04.16-14.46.42:976][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_PC_MainGameD4407CB44BC71B6A95F0F4A3D3B2B04C.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_PC_MainGame.uasset'
+[2024.04.16-14.46.42:978][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Levels/BP_PS_MainGame" FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_PS_MainGame.uasset" SILENT=true
+[2024.04.16-14.46.42:978][567]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Submerged/Levels/BP_PS_MainGame does not exist, will not scan.
+[2024.04.16-14.46.42:980][567]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/BP_PS_MainGame
+[2024.04.16-14.46.42:980][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_PS_MainGame1234A7024F4EE1A172E35CBCF6CF3F86.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/BP_PS_MainGame.uasset'
+[2024.04.16-14.46.42:985][567]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_PS_MainGame
+[2024.04.16-14.46.42:985][567]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_PS_MainGame3B3C712B44D5BCEE257DF99668223C44.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_PS_MainGame.uasset'
+[2024.04.16-14.46.43:114][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 870 ms)
+[2024.04.16-14.46.43:492][567]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.Default__BP_GM_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/BP_GS_MainGame.BP_GS_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_GS_MainGame.BP_GS_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_GS_MainGame.BP_GS_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_GS_MainGame.Default__BP_GS_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/BP_PC_MainGame.BP_PC_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_PC_MainGame.BP_PC_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_PC_MainGame.BP_PC_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_PC_MainGame.Default__BP_PC_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/BP_PS_MainGame.BP_PS_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_PS_MainGame.BP_PS_MainGame
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_PS_MainGame.BP_PS_MainGame_C
+[2024.04.16-14.46.43:492][567]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Submerged/Blueprints/Setup/BP_PS_MainGame.Default__BP_PS_MainGame_C
+[2024.04.16-14.46.52:227][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.16-14.46.54:205][ 86]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.16-14.47.03:356][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.16-14.47.10:892][613]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.16-14.47.10:904][613]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_PS_MainGame.BP_PS_MainGame
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_PS_MainGame.Default__BP_PS_MainGame_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_PS_MainGame.BP_PS_MainGame_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_PC_MainGame.BP_PC_MainGame
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_PC_MainGame.Default__BP_PC_MainGame_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_PC_MainGame.BP_PC_MainGame_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_GS_MainGame.BP_GS_MainGame
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_GS_MainGame.Default__BP_GS_MainGame_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_GS_MainGame.BP_GS_MainGame_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame
+	Asset Type: ObjectRedirector
+[2024.04.16-14.47.11:198][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.16-14.47.21:969][169]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.16-14.47.22:006][169]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.16-14.47.22:011][169]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 0 (Found bundle for host: 0xbac79950930 [serially])
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 6 (Closing connection)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 9 (  Trying 34.195.108.1:443...)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.195.108.1) port 443)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 12 (SSL reusing session ID)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 25 (Server certificate:)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 32 (using HTTP/1.1)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 34 (Closing connection)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: 00000BACD87B3700: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.47.22:019][170]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.16-14.47.22:025][170]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.16-14.47.33:000][823]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PC_MenuController
+[2024.04.16-14.47.33:079][823]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.16-14.47.35:654][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.16-14.47.36:903][975]LogSlate: Window 'Save Content' being destroyed
+[2024.04.16-14.47.37:017][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.47.37:080][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.16-14.47.37:083][975]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Menu/BP_PC_MenuController
+[2024.04.16-14.47.37:083][975]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_PC_MenuControllerC46B811644EABBB8120CA5A5259256A6.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/BP_PC_MenuController.uasset'
+[2024.04.16-14.47.37:193][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.04 sec)
+[2024.04.16-14.47.37:193][975]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu
+[2024.04.16-14.47.37:193][975]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-14.47.37:193][975]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.37:193][975]LoadErrors: New page: Loading map: Main_Menu.umap
+[2024.04.16-14.47.37:208][975]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.47.37:208][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.47.37:208][975]MapCheck: New page: Map Check
+[2024.04.16-14.47.37:208][975]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.37:221][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.47.37:223][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.16-14.47.37:230][975]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.04.16-14.47.37:230][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.47.37:230][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.47.37:231][975]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.47.37:256][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-14.47.37:271][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.16-14.47.37:275][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-14.47.37:275][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2024.04.16-14.47.37:279][975]AssetCheck: New page: Asset Save: BP_PC_MenuController
+[2024.04.16-14.47.37:279][975]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/Menu/BP_PC_MenuController.BP_PC_MenuController
+[2024.04.16-14.47.39:900][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.16-14.47.39:902][128]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu
+[2024.04.16-14.47.39:902][128]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-14.47.39:902][128]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.39:902][128]LoadErrors: New page: Loading map: Main_Menu.umap
+[2024.04.16-14.47.39:917][128]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.47.39:917][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.47.39:917][128]MapCheck: New page: Map Check
+[2024.04.16-14.47.39:917][128]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.39:931][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.47.39:932][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.16-14.47.39:935][128]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.04.16-14.47.39:935][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.47.39:935][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.47.39:935][128]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.47.39:960][128]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-14.47.39:975][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-14.47.39:984][128]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-14.47.39:985][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2024.04.16-14.47.41:387][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.16-14.47.41:389][211]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu
+[2024.04.16-14.47.41:389][211]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-14.47.41:389][211]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.41:389][211]LoadErrors: New page: Loading map: Main_Menu.umap
+[2024.04.16-14.47.41:404][211]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.47.41:404][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.47.41:404][211]MapCheck: New page: Map Check
+[2024.04.16-14.47.41:404][211]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.41:416][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.47.41:418][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.16-14.47.41:421][211]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.04.16-14.47.41:421][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.47.41:421][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.47.41:422][211]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.47.41:447][211]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-14.47.41:463][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.16-14.47.41:466][211]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-14.47.41:466][211]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2024.04.16-14.47.42:401][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.16-14.47.42:403][266]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu
+[2024.04.16-14.47.42:403][266]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-14.47.42:403][266]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.42:403][266]LoadErrors: New page: Loading map: Main_Menu.umap
+[2024.04.16-14.47.42:422][266]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.47.42:422][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.47.42:422][266]MapCheck: New page: Map Check
+[2024.04.16-14.47.42:422][266]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.42:436][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.47.42:437][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-14.47.42:440][266]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.04.16-14.47.42:440][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.47.42:440][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.47.42:441][266]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.47.42:466][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-14.47.42:481][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.16-14.47.42:484][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-14.47.42:484][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2024.04.16-14.47.43:457][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Submerged/Levels/Menu/BP_PC_MenuController.BP_PC_MenuController
+[2024.04.16-14.47.43:457][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.47.43:457][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.47.43:617][324]LogViewport: Scene viewport resized to 1487x1112, mode Windowed.
+[2024.04.16-14.47.47:140][441]LogViewport: Scene viewport resized to 1483x1146, mode Windowed.
+[2024.04.16-14.47.47:183][442]LogViewport: Scene viewport resized to 1520x1120, mode Windowed.
+[2024.04.16-14.47.47:495][461]LogSlate: Window 'BP_PC_MenuController' being destroyed
+[2024.04.16-14.47.55:522][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.16-14.47.55:523][932]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu
+[2024.04.16-14.47.55:523][932]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-14.47.55:523][932]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.55:523][932]LoadErrors: New page: Loading map: Main_Menu.umap
+[2024.04.16-14.47.55:544][932]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.47.55:544][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.47.55:544][932]MapCheck: New page: Map Check
+[2024.04.16-14.47.55:544][932]LightingResults: New page: Lighting Build
+[2024.04.16-14.47.55:558][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.47.55:561][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.16-14.47.55:565][932]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.04.16-14.47.55:565][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.47.55:565][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.47.55:566][932]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.47.55:604][932]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-14.47.55:622][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.16-14.47.55:627][932]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-14.47.55:627][932]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2024.04.16-14.48.10:084][445]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.16-14.48.10:089][445]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.16-14.48.10:094][445]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.16-14.48.10:103][446]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.16-14.48.21:421][120]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GM_Menu
+[2024.04.16-14.48.21:505][120]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.16-14.48.27:230][463]LogContentBrowser: Attempting asset rename: BP_PC_MenuController -> BP_PC_Menu
+[2024.04.16-14.48.27:683][463]LogMetaData: Removing '/Game/Submerged/Levels/Menu/BP_PC_Menu.BP_PC_Menu:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Submerged/Levels/Menu/BP_PC_MenuController.PackageMetaData'
+[2024.04.16-14.48.27:683][463]LogMetaData: Removing '/Game/Submerged/Levels/Menu/BP_PC_Menu.SKEL_BP_PC_Menu_C:UserConstructionScript' ref from Metadata '/Game/Submerged/Levels/Menu/BP_PC_MenuController.PackageMetaData'
+[2024.04.16-14.48.27:683][463]LogMetaData: Removing '/Game/Submerged/Levels/Menu/BP_PC_Menu.SKEL_BP_PC_Menu_C' ref from Metadata '/Game/Submerged/Levels/Menu/BP_PC_MenuController.PackageMetaData'
+[2024.04.16-14.48.27:683][463]LogMetaData: Removing '/Game/Submerged/Levels/Menu/BP_PC_Menu.BP_PC_Menu_C' ref from Metadata '/Game/Submerged/Levels/Menu/BP_PC_MenuController.PackageMetaData'
+[2024.04.16-14.48.27:683][463]LogMetaData: Removing '/Game/Submerged/Levels/Menu/BP_PC_Menu.BP_PC_Menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Submerged/Levels/Menu/BP_PC_MenuController.PackageMetaData'
+[2024.04.16-14.48.27:683][463]LogMetaData: Removing '/Game/Submerged/Levels/Menu/BP_PC_Menu.BP_PC_Menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Submerged/Levels/Menu/BP_PC_MenuController.PackageMetaData'
+[2024.04.16-14.48.27:688][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.48.27:714][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Levels/Menu/BP_PC_Menu" FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/BP_PC_Menu.uasset" SILENT=true
+[2024.04.16-14.48.27:716][463]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Menu/BP_PC_Menu
+[2024.04.16-14.48.27:716][463]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_PC_MenuB10AF69B444778CD3CDD68B8158C8A9D.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/BP_PC_Menu.uasset'
+[2024.04.16-14.48.27:839][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.19 sec)
+[2024.04.16-14.48.28:014][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.16-14.48.28:025][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.16-14.48.28:038][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.16-14.48.28:132][463]SourceControl: rm 'Submerged_GS/Content/Submerged/Levels/Menu/BP_PC_MenuController.uasset'
+[2024.04.16-14.48.28:136][463]AssetCheck: New page: Asset Save: BP_PC_Menu
+[2024.04.16-14.48.28:136][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/Menu/BP_PC_Menu.BP_PC_Menu
+[2024.04.16-14.48.29:116][519]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Submerged/Levels/Menu/BP_GM_Menu.BP_GM_Menu
+[2024.04.16-14.48.29:116][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.48.29:116][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.48.29:249][519]LogViewport: Scene viewport resized to 1520x882, mode Windowed.
+[2024.04.16-14.48.44:465][415]BlueprintLog: New page: Compile BP_GM_Menu
+[2024.04.16-14.48.44:493][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.16-14.48.45:108][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.48.45:129][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Levels/Menu/BP_GM_Menu" FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/BP_GM_Menu.uasset" SILENT=true
+[2024.04.16-14.48.45:131][443]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Menu/BP_GM_Menu
+[2024.04.16-14.48.45:131][443]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_Menu8D87074E41ACDDDB93AA0098B07FC219.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/BP_GM_Menu.uasset'
+[2024.04.16-14.48.45:260][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.34 sec)
+[2024.04.16-14.48.45:261][443]AssetCheck: New page: Asset Save: BP_GM_Menu
+[2024.04.16-14.48.45:261][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Levels/Menu/BP_GM_Menu.BP_GM_Menu
+[2024.04.16-14.49.16:615][702]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.16-14.49.16:621][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.49.16:622][702]PIE: New page: PIE session: Main_Menu (17 Apr 2024, 10:49:16 am)
+[2024.04.16-14.49.16:622][702]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/Menu/UEDPIE_0_Main_Menu
+[2024.04.16-14.49.16:623][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000938s)
+[2024.04.16-14.49.16:623][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Menu/Main_Menu.Main_Menu to /Game/Submerged/Levels/Menu/UEDPIE_0_Main_Menu.Main_Menu (0.000985s)
+[2024.04.16-14.49.16:638][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.16-14.49.16:639][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.49.16:639][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.49.16:639][702]LogAIModule: Creating AISystem for world Main_Menu
+[2024.04.16-14.49.16:640][702]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2024.04.16-14.49.16:640][702]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.49.16:640][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.49.16:640][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.49.16:641][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.49.16:641][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.49.16:641][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.49.16:643][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.49.16:655][702]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.49.16:655][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.49.16:655][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.49.16:655][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.49.16:657][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.16-14.49.16:657][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.16-14.49.16:658][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.16-14.49.16:658][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.16-14.49.16:658][702]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.16-14.49.16:658][702]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main_Menu'.
+[2024.04.16-14.49.16:658][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.16-14.49.16:683][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.49.16:683][702]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-14.49.16:683][702]LogWorld: Bringing World /Game/Submerged/Levels/Menu/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 60) at 2024.04.17-00.49.16
+[2024.04.16-14.49.16:685][702]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.16-14.49.16:686][702]LogWorld: Bringing up level for play took: 0.002550
+[2024.04.16-14.49.16:687][702]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.16-14.49.16:687][702]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.16-14.49.16:687][702]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.16-14.49.16:687][702]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.16-14.49.16:687][702]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.49.16:687][702]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2024.04.16-14.49.16:687][702]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.49.16:687][702]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-14.49.16:687][702]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.49.16:689][702]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-14.49.16:692][702]PIE: Server logged in
+[2024.04.16-14.49.16:693][702]PIE: Play in editor total start time 0.072 seconds.
+[2024.04.16-14.49.16:693][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.49.16:694][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.49.16:694][702]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2024.04.16-14.49.16:694][702]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.49.16:694][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.49.16:694][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.49.16:695][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.49.16:695][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.49.16:695][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.49.16:697][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.49.16:707][702]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.16-14.49.16:707][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.49.16:707][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.49.16:707][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.49.16:708][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.16-14.49.16:709][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.16-14.49.16:709][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.16-14.49.16:709][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.16-14.49.16:711][702]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.16-14.49.16:711][702]LogAudio: Display: Audio Device (ID: 15) registered with world 'Untitled'.
+[2024.04.16-14.49.16:711][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.16-14.49.16:736][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.49.16:736][702]LogNet: Browse: 127.0.0.1:17777/Game/Submerged/Levels/Main_Game
+[2024.04.16-14.49.16:736][702]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.04.16-14.49.16:736][702]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.04.16-14.49.16:736][702]LogNet: IpConnection_12 setting maximum channels to: 32767
+[2024.04.16-14.49.16:736][702]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.49.16:738][702]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2024.04.16-14.49.16:738][702]LogNet: Game client on port 17777, rate 100000
+[2024.04.16-14.49.16:740][702]PIE: Client logged in
+[2024.04.16-14.49.16:742][702]PIE: Play in editor total start time 0.121 seconds.
+[2024.04.16-14.49.16:772][702]LogViewport: Scene viewport resized to 1283x1308, mode Windowed.
+[2024.04.16-14.49.16:775][702]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.04.16-14.49.17:775][757]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60276
+[2024.04.16-14.49.17:775][757]LogHandshake: SendConnectChallenge. Timestamp: 1.169895, Cookie: 132129010018094054212075204040180119231253001222178129046148
+[2024.04.16-14.49.17:776][757]LogHandshake: Cached server SessionID: 0
+[2024.04.16-14.49.17:776][757]LogHandshake: SendChallengeResponse. Timestamp: 1.169895, Cookie: 132129010018094054212075204040180119231253001222178129046148
+[2024.04.16-14.49.17:786][758]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60276
+[2024.04.16-14.49.17:786][758]LogHandshake: SendChallengeAck. InCookie: 132129010018094054212075204040180119231253001222178129046148
+[2024.04.16-14.49.17:786][758]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60276
+[2024.04.16-14.49.17:786][758]LogNet: IpConnection_13 setting maximum channels to: 32767
+[2024.04.16-14.49.17:786][758]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.16-14.49.17:786][758]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/17/24 00:49:17, [UNetConnection] RemoteAddr: 127.0.0.1:60276, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.49.17:786][758]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60276, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.49.17:788][758]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.04.16-14.49.17:802][759]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Submerged/Levels/Menu/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2024.04.16-14.49.17:802][759]LogNet: Remote platform little endian=1
+[2024.04.16-14.49.17:802][759]LogNet: This platform little endian=1
+[2024.04.16-14.49.17:805][759]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.04.16-14.49.17:819][760]LogNet: Login request: ?Name=DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6 userId: NULL:DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6 platform: NULL
+[2024.04.16-14.49.17:819][760]LogNet: Welcomed by server (Level: /Game/Submerged/Levels/Menu/UEDPIE_0_Main_Menu, Game: /Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C)
+[2024.04.16-14.49.17:819][760]LogLoad: LoadMap: 127.0.0.1:17777/Game/Submerged/Levels/Menu/Main_Menu?game=/Game/Submerged/Levels/BP_GM_MainGame.BP_GM_MainGame_C
+[2024.04.16-14.49.17:819][760]LogWorld: BeginTearingDown for /Temp/Untitled_7
+[2024.04.16-14.49.17:820][760]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.49.17:820][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.49.17:833][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.49.17:834][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.16-14.49.17:837][760]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main_Menu'.
+[2024.04.16-14.49.17:837][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.49.17:837][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.49.17:838][760]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2024.04.16-14.49.17:838][760]LogWorld: Bringing World /Game/Submerged/Levels/Menu/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 60) at 2024.04.17-00.49.17
+[2024.04.16-14.49.17:838][760]LogWorld: Bringing up level for play took: 0.000149
+[2024.04.16-14.49.17:838][760]LogLoad: Took 0.018174 seconds to LoadMap(/Game/Submerged/Levels/Menu/Main_Menu)
+[2024.04.16-14.49.17:849][761]LogNet: Client netspeed is 100000
+[2024.04.16-14.49.17:849][761]LogNet: Join request: /Game/Submerged/Levels/Main_Game?Name=DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6?SplitscreenCount=1
+[2024.04.16-14.49.17:850][761]LogNet: Join succeeded: DESKTOP-2S080BG-9E18
+[2024.04.16-14.49.19:373][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.49.19:373][834]LogWorld: BeginTearingDown for /Game/Submerged/Levels/Menu/UEDPIE_1_Main_Menu
+[2024.04.16-14.49.19:373][834]LogSlate: Window 'Submerged_GS Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.49.19:375][834]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.49.19:375][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.49.19:376][834]LogNet: World NetDriver shutdown IpNetDriver_13 [GameNetDriver]
+[2024.04.16-14.49.19:376][834]LogNet: DestroyNamedNetDriver IpNetDriver_13 [GameNetDriver]
+[2024.04.16-14.49.19:376][834]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6, Channels: 10, Time: 2024.04.16-14.49.19
+[2024.04.16-14.49.19:376][834]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: BP_PC_MainGame_C_0, Owner: BP_PC_MainGame_C_0, UniqueId: NULL:DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6
+[2024.04.16-14.49.19:376][834]LogExit: GameNetDriver IpNetDriver_13 shut down
+[2024.04.16-14.49.19:378][834]LogWorld: BeginTearingDown for /Game/Submerged/Levels/Menu/UEDPIE_0_Main_Menu
+[2024.04.16-14.49.19:378][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.49.19:378][834]LogSlate: Window 'Submerged_GS Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.49.19:382][834]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.49.19:382][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.49.19:383][834]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2024.04.16-14.49.19:383][834]LogNet: DestroyNamedNetDriver IpNetDriver_12 [GameNetDriver]
+[2024.04.16-14.49.19:383][834]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.49.19:383][834]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.04.16-14.49.19:383][834]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60276, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6
+[2024.04.16-14.49.19:383][834]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60276, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6, Channels: 10, Time: 2024.04.16-14.49.19
+[2024.04.16-14.49.19:383][834]LogNet: UNetConnection::SendCloseReason:
+[2024.04.16-14.49.19:383][834]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.04.16-14.49.19:383][834]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60276, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: BP_PC_MainGame_C_1, Owner: BP_PC_MainGame_C_1, UniqueId: NULL:DESKTOP-2S080BG-9E187800406A8EE2AC05C69328B62DE6
+[2024.04.16-14.49.19:383][834]LogExit: GameNetDriver IpNetDriver_12 shut down
+[2024.04.16-14.49.19:385][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.49.19:389][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.49.19:402][834]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.16-14.49.19:402][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.16-14.49.19:405][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.16-14.49.19:408][834]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.16-14.49.19:408][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.16-14.49.19:410][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.16-14.49.19:414][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.16-14.49.19:462][836]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.04.16-14.49.19:462][836]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.16-14.49.41:474][212]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-14.49.41:481][212]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-14.49.41:492][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.16-14.49.43:443][328]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2024.04.16-14.49.43:444][328]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-14.49.46:994][536]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-14.49.47:006][536]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-14.49.47:068][538]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.16-14.49.48:463][622]LogContentBrowser: Attempting asset rename: NewFolder -> Menu
+[2024.04.16-14.49.48:463][622]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-14.49.57:941][903]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.16-14.50.10:637][385]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.16-14.50.10:643][385]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.16-14.50.10:648][385]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.16-14.50.10:678][387]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.16-14.50.25:045][563]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.04.16-14.50.25:120][563]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.16-14.50.39:152][200]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_CreateSession
+[2024.04.16-14.50.39:609][200]LogMetaData: Removing '/Game/Submerged/Widgets/Menu/WB_CreateSession.SKEL_WB_CreateSession_C' ref from Metadata '/Game/Submerged/Widgets/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.04.16-14.50.39:609][200]LogMetaData: Removing '/Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession_C' ref from Metadata '/Game/Submerged/Widgets/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.04.16-14.50.39:609][200]LogMetaData: Removing '/Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Submerged/Widgets/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.04.16-14.50.39:609][200]LogMetaData: Removing '/Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Submerged/Widgets/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.04.16-14.50.39:609][200]LogMetaData: Removing '/Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Submerged/Widgets/Menu/NewWidgetBlueprint.PackageMetaData'
+[2024.04.16-14.50.39:609][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.50.39:640][200]LogSavePackage: Moving output files for package: /Game/Submerged/Widgets/Menu/WB_CreateSession
+[2024.04.16-14.50.39:640][200]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/WB_CreateSession54475D4245ED2F82CB0D33BA62F767D8.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Widgets/Menu/WB_CreateSession.uasset'
+[2024.04.16-14.50.39:758][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 1.49 sec)
+[2024.04.16-14.50.39:861][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-14.50.39:876][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.16-14.50.39:889][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.16-14.50.39:891][200]AssetCheck: New page: Asset Save: WB_CreateSession
+[2024.04.16-14.50.39:891][200]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession
+[2024.04.16-14.50.40:450][233]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession
+[2024.04.16-14.50.40:450][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.50.40:450][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.50.40:457][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.50.40:457][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.50.40:465][233]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.16-14.50.40:796][233]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.16-14.50.40:802][233]LogSlate: Took 0.005208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
