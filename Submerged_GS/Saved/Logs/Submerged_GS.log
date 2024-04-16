@@ -2751,3 +2751,91 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.04.16-14.50.40:465][233]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
 [2024.04.16-14.50.40:796][233]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
 [2024.04.16-14.50.40:802][233]LogSlate: Took 0.005208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.16-14.52.17:462][551]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-14.52.21:353][782]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-14.52.24:530][970]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 0 (Found bundle for host: 0xbac79950d80 [serially])
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 6 (Closing connection)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 9 (  Trying 18.207.54.173:443...)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.207.54.173) port 443)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.04.16-14.52.26:045][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 25 (Server certificate:)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 34 (Closing connection)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: 00000BACF75AEB00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.04.16-14.52.26:046][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B06DAC4A1-49FB-3A7F-A275-72A2D3900FEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5d03988347f4693c6340b4bdb22db748%7C19e44d1a4ceb42c38200042296e9c0e4%7C103d15b5-b95d-40c3-8f6c-2a9a9e923196&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.16-14.52.37:309][732]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-14.54.13:888][409]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2024.04.16-14.54.15:062][461]LogSlate: Took 0.010518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.16-14.55.25:342][372]LogEditorTransaction: Undo Replace Widgets
+[2024.04.16-14.55.25:775][391]LogEditorTransaction: Undo Reset to Default
+[2024.04.16-14.55.26:515][433]LogEditorTransaction: Undo Edit Bottom
+[2024.04.16-14.55.27:082][467]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2024.04.16-14.55.27:465][490]LogEditorTransaction: Undo Add Widget
+[2024.04.16-14.55.31:866][754]LogEditorTransaction: Redo Add Widget
+[2024.04.16-14.55.32:091][765]LogEditorTransaction: Redo Edit Horizontal Alignment
+[2024.04.16-14.55.32:259][771]LogEditorTransaction: Redo Edit Bottom
+[2024.04.16-14.55.33:392][836]LogEditorTransaction: Redo Reset to Default
+[2024.04.16-14.55.33:775][859]LogEditorTransaction: Redo Replace Widgets
+[2024.04.16-14.55.34:192][884]LogEditorTransaction: Undo Replace Widgets
+[2024.04.16-14.59.11:651][753]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-14.59.13:015][835]BlueprintLog: New page: Compile WB_CreateSession
+[2024.04.16-14.59.13:043][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.16-14.59.13:579][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.59.13:613][862]LogSavePackage: Moving output files for package: /Game/Submerged/Widgets/Menu/WB_CreateSession
+[2024.04.16-14.59.13:613][862]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/WB_CreateSession731741BD4EC4E49F05A552ABC395C584.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Widgets/Menu/WB_CreateSession.uasset'
+[2024.04.16-14.59.13:619][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.53 sec)
+[2024.04.16-14.59.13:620][862]AssetCheck: New page: Asset Save: WB_CreateSession
+[2024.04.16-14.59.13:620][862]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession
+[2024.04.16-14.59.55:957][540]LogEditorTransaction: Undo Delete current selection
+[2024.04.16-14.59.56:780][573]LogEditorTransaction: Undo Edit Brush Color
+[2024.04.16-14.59.57:476][609]LogEditorTransaction: Undo Edit Text
+[2024.04.16-15.00.01:542][847]LogEditorTransaction: Redo Edit Text
+[2024.04.16-15.00.01:699][849]LogEditorTransaction: Redo Edit Brush Color
+[2024.04.16-15.00.01:837][850]LogEditorTransaction: Redo Delete current selection
+[2024.04.16-15.02.27:512][459]BlueprintLog: New page: Compile WB_CreateSession
+[2024.04.16-15.02.27:540][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.16-15.03.23:066][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.16-15.03.23:069][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Menu/Main_Menu' took 0.018
+[2024.04.16-15.03.23:070][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Submerged/Widgets/Menu/WB_CreateSession] ([2] browsable assets)...
+[2024.04.16-15.03.23:075][336]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession]
+[2024.04.16-15.03.23:075][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/Submerged/Widgets/Menu/WB_CreateSession]
+[2024.04.16-15.03.23:079][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Widgets/Menu/WB_CreateSession_Auto1
+[2024.04.16-15.03.23:079][336]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/WB_CreateSession_Auto11DB697F9487B5608E7B545BAA3866339.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Widgets/Menu/WB_CreateSession_Auto1.uasset'
+[2024.04.16-15.03.23:080][336]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.04.16-15.04.53:882][116]BlueprintLog: New page: Compile WB_CreateSession
+[2024.04.16-15.04.53:907][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-15.04.54:379][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.04.54:418][132]LogSavePackage: Moving output files for package: /Game/Submerged/Widgets/Menu/WB_CreateSession
+[2024.04.16-15.04.54:418][132]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/WB_CreateSession341E2F6F438BC23B437EFA998B0A0A75.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Widgets/Menu/WB_CreateSession.uasset'
+[2024.04.16-15.04.54:424][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.58 sec)
+[2024.04.16-15.04.54:425][132]AssetCheck: New page: Asset Save: WB_CreateSession
+[2024.04.16-15.04.54:426][132]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Submerged/Widgets/Menu/WB_CreateSession.WB_CreateSession
