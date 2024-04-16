@@ -1683,3 +1683,222 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.04.15-13.27.14:020][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.15-13.27.14:020][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.04.15-13.27.14:123][699]LogSlate: Took 0.001174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.15-13.27.57:994][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-13.27.58:046][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-13.27.58:075][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-13.28.00:833][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2024.04.15-13.28.00:834][242]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-13.28.00:834][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-05.40.42:203][888]BlueprintLog: New page: Compile BP_GM_MainGame
+[2024.04.16-05.40.42:232][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.16-05.40.42:724][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-05.40.42:751][911]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame
+[2024.04.16-05.40.42:751][911]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGameF8A7637743AB4BC5E89E0BA59ED60675.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_GM_MainGame.uasset'
+[2024.04.16-05.40.42:756][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 433 ms)
+[2024.04.16-05.40.42:757][911]AssetCheck: New page: Asset Save: BP_GM_MainGame
+[2024.04.16-05.40.42:757][911]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame
+[2024.04.16-05.40.43:636][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-05.40.43:641][956]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-05.40.43:641][956]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.04.16-05.40.43:644][956]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 7 ms)
+[2024.04.16-05.40.43:644][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-05.40.43:644][956]PIE: New page: PIE session: FirstPersonMap (17 Apr 2024, 1:40:43 am)
+[2024.04.16-05.40.43:644][956]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.16-05.40.43:647][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003391s)
+[2024.04.16-05.40.43:647][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003418s)
+[2024.04.16-05.40.43:661][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-05.40.43:662][956]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-05.40.43:662][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-05.40.43:663][956]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.04.16-05.40.43:663][956]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-05.40.43:663][956]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-05.40.43:663][956]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-05.40.43:663][956]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-05.40.43:664][956]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-05.40.43:664][956]LogWorldPartition: Display: WorldPartition initialize took 928 us (total: 538 ms)
+[2024.04.16-05.40.43:664][956]LogPlayLevel: PIE: World Init took: (0.002413s)
+[2024.04.16-05.40.43:664][956]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-05.40.43:664][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-05.40.43:664][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-05.40.43:665][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-05.40.43:665][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-05.40.43:665][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-05.40.43:667][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-05.40.43:690][956]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-05.40.43:690][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-05.40.43:691][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-05.40.43:691][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-05.40.43:691][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.16-05.40.43:691][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.16-05.40.43:692][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.16-05.40.43:692][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.16-05.40.43:692][956]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.16-05.40.43:692][956]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.04.16-05.40.43:692][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.16-05.40.43:696][956]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.16-05.40.43:697][956]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.04.16-15.40.43
+[2024.04.16-05.40.43:697][956]LogWorld: Bringing up level for play took: 0.001430
+[2024.04.16-05.40.43:699][956]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.04.16-05.40.43:701][956]PIE: Server logged in
+[2024.04.16-05.40.43:701][956]PIE: Play in editor total start time 0.061 seconds.
+[2024.04.16-05.40.45:997][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-05.40.45:997][ 86]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.16-05.40.45:997][ 86]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-05.40.45:998][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.40.45:998][ 86]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.04.16-05.40.46:001][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-05.40.46:005][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.40.46:018][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-05.40.46:019][ 86]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.16-05.40.46:019][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.16-05.40.46:021][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.16-05.40.46:027][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.16-05.40.46:090][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.16-05.40.52:278][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.16-05.40.52:318][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-05.40.52:320][455]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Main_Game.Main_Game
+[2024.04.16-05.40.52:320][455]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Main_Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.16-05.40.52:320][455]LightingResults: New page: Lighting Build
+[2024.04.16-05.40.52:320][455]LoadErrors: New page: Loading map: Main_Game.umap
+[2024.04.16-05.40.52:378][455]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-05.40.52:378][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.40.52:379][455]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.04.16-05.40.52:379][455]MapCheck: New page: Map Check
+[2024.04.16-05.40.52:379][455]LightingResults: New page: Lighting Build
+[2024.04.16-05.40.52:392][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-05.40.52:395][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.16-05.40.52:396][455]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-05.40.52:396][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.40.52:409][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.16-05.40.52:423][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-05.40.52:426][455]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Game'.
+[2024.04.16-05.40.52:426][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-05.40.52:426][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-05.40.52:426][455]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.16-05.40.52:487][455]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.16-05.40.52:503][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.16-05.40.52:509][455]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.16-05.40.52:509][455]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2024.04.16-05.40.55:274][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-05.40.55:322][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.16-05.40.55:330][611]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Main_Game
+[2024.04.16-05.40.55:330][611]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/Main_Game32DA335845F4DE278DF1CDBA5DAB06D8.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Main_Game.umap'
+[2024.04.16-05.40.55:336][611]LogFileHelpers: Saving map 'Main_Game' took 0.038
+[2024.04.16-05.40.55:342][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 501 ms)
+[2024.04.16-05.40.55:343][611]AssetCheck: New page: Asset Save: Main_Game
+[2024.04.16-05.40.55:343][611]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Main_Game.Main_Game
+[2024.04.16-05.40.57:235][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-05.40.57:238][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-05.40.57:238][723]PIE: New page: PIE session: Main_Game (17 Apr 2024, 1:40:57 am)
+[2024.04.16-05.40.57:239][723]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-05.40.57:240][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2024.04.16-05.40.57:240][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Main_Game.Main_Game to /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game (0.001833s)
+[2024.04.16-05.40.57:254][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-05.40.57:255][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-05.40.57:255][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-05.40.57:256][723]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.16-05.40.57:256][723]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2024.04.16-05.40.57:256][723]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-05.40.57:256][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-05.40.57:256][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-05.40.57:256][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-05.40.57:256][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-05.40.57:256][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-05.40.57:259][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-05.40.57:274][723]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-05.40.57:274][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-05.40.57:274][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-05.40.57:274][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-05.40.57:274][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.16-05.40.57:274][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.16-05.40.57:277][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.16-05.40.57:277][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.16-05.40.57:277][723]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.16-05.40.57:277][723]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_Game'.
+[2024.04.16-05.40.57:277][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.16-05.40.57:279][723]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.16-05.40.57:280][723]LogWorld: Bringing World /Game/Submerged/Levels/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 60) at 2024.04.16-15.40.57
+[2024.04.16-05.40.57:280][723]LogWorld: Bringing up level for play took: 0.000859
+[2024.04.16-05.40.57:282][723]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.16-05.40.57:283][723]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-05.40.57:283][723]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.16-05.40.57:283][723]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-05.40.57:283][723]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.16-05.40.57:283][723]PIE: Server logged in
+[2024.04.16-05.40.57:284][723]PIE: Play in editor total start time 0.045 seconds.
+[2024.04.16-05.40.59:608][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-05.40.59:608][857]LogWorld: BeginTearingDown for /Game/Submerged/Levels/UEDPIE_0_Main_Game
+[2024.04.16-05.40.59:608][857]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-05.40.59:608][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.40.59:611][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-05.40.59:615][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.40.59:624][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-05.40.59:624][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.16-05.40.59:626][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.16-05.40.59:627][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.16-05.40.59:633][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.16-05.40.59:690][859]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.16-05.42.36:907][688]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-05.42.36:907][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.42.38:870][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.16-05.42.38:870][804]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-05.42.38:870][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-05.44.26:053][165]LogSlate: Took 0.007947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.16-05.44.30:848][374]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.04.16-05.44.35:262][620]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.16-05.44.35:267][620]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.04.16-05.44.36:032][666]BlueprintLog: New page: Compile BP_GM_MainGame
+[2024.04.16-05.44.36:057][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.16-05.45.37:081][304]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.04.16-05.49.52:454][513]LogEditorTransaction: Undo Move Nodes
+[2024.04.16-05.50.57:706][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.16-05.50.57:710][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Main_Game' took 0.019
+[2024.04.16-05.50.57:711][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Submerged/Blueprints/Setup/BP_GM_MainGame] ([2] browsable assets)...
+[2024.04.16-05.50.57:711][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Submerged/Blueprints/Setup/BP_GM_MainGame]
+[2024.04.16-05.50.57:714][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Blueprints/Setup/BP_GM_MainGame_Auto1
+[2024.04.16-05.50.57:714][399]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGame_Auto1B1A4822249BA8633FC954E888A45455B.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Blueprints/Setup/BP_GM_MainGame_Auto1.uasset'
+[2024.04.16-05.50.57:715][399]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.04.16-05.52.38:534][449]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.16-05.52.38:534][449]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.16-05.54.05:565][665]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.16-05.54.32:263][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.16-05.54.32:268][264]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.54.35:647][465]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.16-05.54.35:652][465]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.55.47:999][803]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.16-05.55.48:003][803]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.57.04:248][372]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.16-05.57.04:252][372]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.57.11:236][788]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.16-05.57.11:242][788]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.58.11:115][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.04.16-05.58.11:120][378]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.58.23:532][121]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.16-05.58.32:814][678]BlueprintLog: New page: Compile BP_GM_MainGame
+[2024.04.16-05.58.32:842][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.16-05.58.33:445][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-05.58.33:476][708]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame
+[2024.04.16-05.58.33:477][708]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGame4EF90FB045D5752BA2ECF58C22AB4CDC.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_GM_MainGame.uasset'
+[2024.04.16-05.58.33:482][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 538 ms)
+[2024.04.16-05.58.33:484][708]AssetCheck: New page: Asset Save: BP_GM_MainGame
+[2024.04.16-05.58.33:484][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame
+[2024.04.16-05.58.37:720][962]BlueprintLog: New page: Compile BP_GM_MainGame
+[2024.04.16-05.58.37:744][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.16-05.58.38:101][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-05.58.38:131][979]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Setup/BP_GM_MainGame
+[2024.04.16-05.58.38:131][979]LogSavePackage: Moving '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/BP_GM_MainGameC3B1E35944EE1BB5189219911F6E3C4B.tmp' to '../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Setup/BP_GM_MainGame.uasset'
+[2024.04.16-05.58.38:137][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 574 ms)
+[2024.04.16-05.58.38:137][979]AssetCheck: New page: Asset Save: BP_GM_MainGame
+[2024.04.16-05.58.38:137][979]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Blueprints/Setup/BP_GM_MainGame.BP_GM_MainGame
