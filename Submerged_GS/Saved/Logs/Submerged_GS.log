@@ -1183,3 +1183,13 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.04.17-00.50.46:894][346]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButtonToggle.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButtonToggle.uasset' is outside repository at 'C:/GitHub/Submerged_GS'
 [2024.04.17-00.50.46:919][349]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content/AudioFader/AudioFader.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content/AudioFader/AudioFader.uasset' is outside repository at 'C:/GitHub/Submerged_GS'
 [2024.04.17-00.50.46:919][349]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content/AudioKnobLarge/AudioKnobLarge.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content/AudioKnobLarge/AudioKnobLarge.uasset' is outside repository at 'C:/GitHub/Submerged_GS'
+[2024.04.17-00.51.15:514][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.17-00.51.16:467][537]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.17-00.51.16:607][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.17-00.51.16:617][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.17-00.51.16:625][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.17-00.51.16:856][537]SourceControl: Error: Updated 0 paths from the index
+[2024.04.17-00.51.17:042][537]SourceControl: Error: warning: could not open directory 'Submerged_GS/Content/Vehicles/': No such file or directory
+[2024.04.17-00.51.17:042][537]SourceControl: Error: warning: could not open directory 'Submerged_GS/Content/Vehicles/': No such file or directory
+[2024.04.17-00.51.17:042][537]SourceControl: rm 'Submerged_GS/Content/Vehicles/OffroadCar/Offroad_CtrlRig.uasset'
+[2024.04.17-00.51.17:042][537]SourceControl: rm 'Submerged_GS/Content/Vehicles/SportsCar/SportsCar_CtrlRig.uasset'
