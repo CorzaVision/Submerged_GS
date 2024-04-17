@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Submerged_GS.cpp.obj": [
+			"Submerged_GS.cpp.obj"
+		]
+	}
+}
