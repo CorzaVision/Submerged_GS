@@ -2716,3 +2716,5 @@ Script Stack (0 frames) :
 [2024.04.17-00.30.40:283][834]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Vehicles/SportsCar/SportsCar_CtrlRig_Auto1
 [2024.04.17-00.30.40:283][834]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/SportsCar_CtrlRig_Auto1CE7B72B54A65D412D26BFF87E0C4CD2B.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Vehicles/SportsCar/SportsCar_CtrlRig_Auto1.uasset'
 [2024.04.17-00.30.40:284][834]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.04.17-00.32.35:275][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-00.32.36:609][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
