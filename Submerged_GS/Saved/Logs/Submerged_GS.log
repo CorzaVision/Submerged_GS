@@ -4283,3 +4283,36 @@ Make sure 'BP_SubmarineCharacter_C' has been compiled for  Get Camera
 [2024.04.17-04.13.09:922][228]LogPlayLevel: Display: Destroying online subsystem :Context_42
 [2024.04.17-04.13.11:175][345]LogSlate: Window 'Message Log' being destroyed
 [2024.04.17-04.13.11:182][345]LogSlate: Window 'Message Log' being destroyed
+[2024.04.17-04.30.59:794][201]LogSlate: Took 0.003722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.17-04.31.53:291][510]BlueprintLog: New page: Compile BP_SubmarineCharacter
+[2024.04.17-04.31.53:320][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.17-04.33.10:403][688]LogEditorTransaction: Undo Move Node
+[2024.04.17-04.33.10:754][699]LogEditorTransaction: Undo Move Node
+[2024.04.17-04.33.30:829][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-04.33.34:257][461]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-04.33.39:048][ 36]BlueprintLog: New page: Compile BP_SubmarineCharacter
+[2024.04.17-04.33.39:082][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.17-04.33.39:520][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-04.33.39:630][ 72]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter
+[2024.04.17-04.33.39:630][ 72]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/BP_SubmarineCharacter62D3030549D86DB95FE7AFA175071D17.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Characters/BP_SubmarineCharacter.uasset'
+[2024.04.17-04.33.39:637][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.34 sec)
+[2024.04.17-04.33.39:639][ 72]AssetCheck: New page: Asset Save: BP_SubmarineCharacter
+[2024.04.17-04.33.39:639][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter
+[2024.04.17-04.33.42:347][395]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-04.33.42:347][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-04.33.49:748][179]LogLinker: Warning: [AssetLog] C:\GitHub\Submerged_GS\Submerged_GS\Content\Submerged\Blueprints\BP_Submarine.uasset: Failed to load '/Game/Models/Submarine_Greybox': Can't find file.
+[2024.04.17-04.33.49:748][179]LogLinker: Warning: [AssetLog] C:\GitHub\Submerged_GS\Submerged_GS\Content\Submerged\Blueprints\BP_Submarine.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Models/Submarine_Greybox'
+[2024.04.17-04.33.49:766][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.17-04.33.52:758][179]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.17-04.33.52:786][179]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Submerged/Blueprints/BP_SubmarinePawn.BP_SubmarinePawn
+	Asset Type: Blueprint
+	Asset Name: /Game/Submerged/Blueprints/BP_Submarine.BP_Submarine
+	Asset Type: Blueprint
+[2024.04.17-04.33.52:936][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.17-04.33.53:076][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.17-04.33.53:084][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.17-04.33.53:093][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.17-04.33.53:282][179]SourceControl: Error: Updated 0 paths from the index
+[2024.04.17-04.33.53:421][179]SourceControl: rm 'Submerged_GS/Content/Submerged/Blueprints/BP_Submarine.uasset'
+[2024.04.17-04.33.53:421][179]SourceControl: rm 'Submerged_GS/Content/Submerged/Blueprints/BP_SubmarinePawn.uasset'
