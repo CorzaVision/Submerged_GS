@@ -21265,3 +21265,97 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.04.17-05.30.22:419][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2024.04.17-05.30.22:477][808]LogPlayLevel: Display: Destroying online subsystem :Context_70
 [2024.04.17-05.30.22:485][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.17-05.38.54:215][903]Cmd: DELETE
+[2024.04.17-05.38.54:215][903]Cmd: ACTOR DELETE
+[2024.04.17-05.38.54:216][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.54:217][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.54:217][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.54:218][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.54:227][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.17-05.38.54:230][903]LogEditorActor: Deleted 4 Actors (0.015 secs)
+[2024.04.17-05.38.58:293][281]Cmd: DELETE
+[2024.04.17-05.38.58:293][281]Cmd: ACTOR DELETE
+[2024.04.17-05.38.58:294][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.58:294][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.58:295][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.58:295][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.38.58:302][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.17-05.38.58:304][281]LogEditorActor: Deleted 4 Actors (0.012 secs)
+[2024.04.17-05.39.24:802][812]Cmd: DELETE
+[2024.04.17-05.39.24:802][812]Cmd: ACTOR DELETE
+[2024.04.17-05.39.24:803][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.39.24:810][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.17-05.39.24:812][812]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.04.17-05.41.18:665][642]Cmd: TRANSACTION UNDO
+[2024.04.17-05.41.18:665][642]LogEditorTransaction: Undo Move Elements
+[2024.04.17-05.42.05:442][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.17-05.42.05:453][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1
+[2024.04.17-05.42.05:453][281]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Main_Game_Auto1B7121C434F65CB338BB548AAA6C4AA85.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1.umap'
+[2024.04.17-05.42.05:456][281]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.17-05.42.05:456][281]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1 is in the /Temp path, will not scan.
+[2024.04.17-05.42.05:456][281]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1 is in the /Temp path, will not scan.
+[2024.04.17-05.42.05:462][281]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1
+[2024.04.17-05.42.05:462][281]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Maze_Walls_Auto181E5AFD745DC75B2B8A0038D6AA7196F.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1.umap'
+[2024.04.17-05.42.05:464][281]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.17-05.42.05:464][281]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1 is in the /Temp path, will not scan.
+[2024.04.17-05.42.05:464][281]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1 is in the /Temp path, will not scan.
+[2024.04.17-05.42.05:464][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.033
+[2024.04.17-05.42.05:464][281]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.04.17-05.43.03:039][454]LogDerivedDataCache: C:/Users/Shaun&Em/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.042 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4787 files in 5757 folders with total size 100 MiB.
+[2024.04.17-05.48.22:081][276]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.22:081][276]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.22:081][276]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.22:081][276]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.23:285][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.23:285][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.23:285][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.23:285][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.23:663][428]Cmd: TRANSACTION UNDO
+[2024.04.17-05.48.23:663][428]LogEditorTransaction: Undo Move Elements
+[2024.04.17-05.48.25:847][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.25:847][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.25:847][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.48.25:847][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-05.49.26:191][357]Cmd: POLY SELECT MEMORY UNION
+[2024.04.17-05.50.40:268][586]Cmd: DELETE
+[2024.04.17-05.50.40:268][586]Cmd: ACTOR DELETE
+[2024.04.17-05.50.40:270][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:271][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:271][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:271][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:272][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:272][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:273][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:273][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:274][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:274][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.50.40:284][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.17-05.50.40:287][586]LogEditorActor: Deleted 10 Actors (0.019 secs)
+[2024.04.17-05.51.00:791][523]Cmd: DELETE
+[2024.04.17-05.51.00:791][523]Cmd: ACTOR DELETE
+[2024.04.17-05.51.00:793][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.17-05.51.00:802][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-05.51.00:804][523]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.04.17-05.51.05:512][979]Cmd: TRANSACTION UNDO
+[2024.04.17-05.51.05:512][979]LogEditorTransaction: Undo Move Elements
+[2024.04.17-05.52.05:616][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.17-05.52.05:626][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto2
+[2024.04.17-05.52.05:626][860]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Main_Game_Auto208291AC543D1193926D2F6ABE4679D5B.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto2.umap'
+[2024.04.17-05.52.05:629][860]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.17-05.52.05:629][860]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto2 is in the /Temp path, will not scan.
+[2024.04.17-05.52.05:629][860]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto2 is in the /Temp path, will not scan.
+[2024.04.17-05.52.05:645][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2
+[2024.04.17-05.52.05:645][860]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Maze_Walls_Auto20FE55B754036B3B41D73E6959B8AD769.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2.umap'
+[2024.04.17-05.52.05:646][860]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.17-05.52.05:646][860]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2 is in the /Temp path, will not scan.
+[2024.04.17-05.52.05:646][860]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2 is in the /Temp path, will not scan.
+[2024.04.17-05.52.05:646][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.040
+[2024.04.17-05.52.05:646][860]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2024.04.17-05.53.17:451][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-05.53.17:491][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.17-05.53.17:508][445]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Sublevels/Maze_Walls
+[2024.04.17-05.53.17:508][445]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Maze_Walls8DFCD9CA418385569EFCB19A1E8AD67F.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Sublevels/Maze_Walls.umap'
+[2024.04.17-05.53.17:512][445]LogFileHelpers: Saving map 'Maze_Walls' took 0.029
+[2024.04.17-05.53.17:518][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.47 sec)
+[2024.04.17-05.53.17:519][445]AssetCheck: New page: Asset Save: Maze_Walls
+[2024.04.17-05.53.17:519][445]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Sublevels/Maze_Walls.Maze_Walls
