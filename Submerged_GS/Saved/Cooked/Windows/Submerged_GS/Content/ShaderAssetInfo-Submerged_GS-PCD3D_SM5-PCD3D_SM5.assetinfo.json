@@ -117,6 +117,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7AB40A26CC3943F268031E95D0BC5A063B927849",
+			"Assets": [
+				"/Game/Submerged/Materials/Floor"
+			]
+		},
+		{
 			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
 			"Assets": [
 				"/Interchange/gltf/M_ClearCoat"
@@ -157,12 +163,6 @@
 			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "12C7373D66D6F10F5FA6C5006DCC620397DA866E",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
@@ -459,12 +459,6 @@
 			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8B0C3BDACCAD954D470320E27BC331BFB3B44FDD",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
 			]
 		},
 		{

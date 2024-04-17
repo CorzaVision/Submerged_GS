@@ -44,12 +44,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "39DA561342A7CE585A9A0E017E74F574F89109CB",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "F41020167194BC7D7FF4809CE6A45F62FFA78E08",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -279,12 +273,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D9FD7485A64CCF2B9676DDE29211A3E242EC8007",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "854319872FFA2B644901C802379CA7D888C4AF1A",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_Solid"
@@ -300,6 +288,12 @@
 			"ShaderMapHash": "EC2C668A2049976BDAF1B8918D8C3A88A90F1114",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6329118B8210EF519EE144F1D1EF482E8303A7DE",
+			"Assets": [
+				"/Game/Submerged/Materials/Floor"
 			]
 		},
 		{
