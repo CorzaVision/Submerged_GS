@@ -408,6 +408,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4EAEEEB7CDD128319FAAE486FF22D8B8DE3CD0DB",
+			"Assets": [
+				"/Game/Submerged/Materials/ButtonON"
+			]
+		},
+		{
 			"ShaderMapHash": "E3780AB90509F0D202291E2324BAE8E831143E70",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
