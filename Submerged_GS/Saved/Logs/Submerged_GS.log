@@ -1429,3 +1429,544 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.04.21-12.06.38:767][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms
 [2024.04.21-12.06.38:768][688]AssetCheck: New page: Asset Save: Main_Game
 [2024.04.21-12.06.38:768][688]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Main_Game.Main_Game
+[2024.04.21-12.08.12:342][297]BlueprintLog: New page: Compile BP_SubmarineCharacter
+[2024.04.21-12.08.12:389][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.21-12.08.13:671][432]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.21-12.08.13:677][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-12.08.13:677][432]PIE: New page: PIE session: Main_Game (22 Apr 2024, 8:08:13 am)
+[2024.04.21-12.08.13:677][432]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game
+[2024.04.21-12.08.13:678][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001395s)
+[2024.04.21-12.08.13:678][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Game/Main_Game.Main_Game to /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game.Main_Game (0.001423s)
+[2024.04.21-12.08.13:688][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.21-12.08.13:689][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-12.08.13:689][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-12.08.13:689][432]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.21-12.08.13:690][432]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.04.21-12.08.13:690][432]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-12.08.13:690][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-12.08.13:690][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-12.08.13:690][432]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-12.08.13:690][432]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-12.08.13:690][432]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-12.08.13:692][432]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-12.08.13:707][432]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.21-12.08.13:707][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-12.08.13:707][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-12.08.13:707][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-12.08.13:707][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.21-12.08.13:707][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.21-12.08.13:709][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.21-12.08.13:709][432]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.21-12.08.13:709][432]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.21-12.08.13:709][432]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Game'.
+[2024.04.21-12.08.13:709][432]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.21-12.08.13:743][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-12.08.13:743][432]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.21-12.08.13:747][432]LogWorld: Bringing World /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 0) at 2024.04.21-22.08.13
+[2024.04.21-12.08.13:749][432]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.21-12.08.13:749][432]LogWorld: Bringing up level for play took: 0.002777
+[2024.04.21-12.08.13:750][432]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.21-12.08.13:750][432]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.21-12.08.13:750][432]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.21-12.08.13:750][432]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.21-12.08.13:750][432]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.21-12.08.13:750][432]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2024.04.21-12.08.13:750][432]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.21-12.08.13:750][432]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.21-12.08.13:750][432]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.21-12.08.13:754][432]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.21-12.08.13:756][432]PIE: Server logged in
+[2024.04.21-12.08.13:759][432]PIE: Play in editor total start time 0.082 seconds.
+[2024.04.21-12.08.13:769][432]LogViewport: Scene viewport resized to 3835x2006, mode Windowed.
+[2024.04.21-12.08.14:512][465]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:527][466]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:544][467]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:555][468]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:569][469]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:584][470]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:598][471]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:611][472]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:627][473]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:641][474]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:655][475]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:671][476]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:684][477]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:698][478]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:712][479]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:726][480]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:739][481]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: 
+[2024.04.21-12.08.14:838][488]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:852][489]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:866][490]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:880][491]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:894][492]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:909][493]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:922][494]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:934][495]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:949][496]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:963][497]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:976][498]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.14:990][499]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:004][500]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:017][501]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:032][502]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:046][503]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:059][504]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:073][505]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:087][506]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:101][507]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:114][508]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:129][509]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:142][510]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:157][511]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:170][512]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:183][513]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:197][514]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:211][515]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:225][516]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:238][517]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:252][518]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:267][519]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:280][520]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:295][521]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:308][522]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:321][523]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:336][524]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:349][525]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:363][526]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:376][527]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:390][528]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:404][529]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:417][530]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:430][531]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:477][532]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:488][533]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:497][534]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:510][535]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:524][536]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:537][537]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:551][538]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:565][539]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:579][540]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:592][541]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:606][542]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:619][543]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:632][544]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:647][545]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:660][546]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:674][547]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:688][548]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:700][549]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:715][550]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:728][551]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:742][552]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:755][553]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:769][554]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:782][555]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:797][556]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:810][557]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:824][558]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:838][559]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:851][560]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:865][561]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:880][562]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:892][563]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:907][564]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:921][565]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:935][566]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:949][567]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:962][568]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:977][569]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.15:991][570]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:004][571]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:019][572]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:032][573]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:046][574]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:060][575]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:073][576]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:086][577]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:100][578]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:114][579]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:127][580]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:142][581]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:155][582]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:168][583]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:182][584]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:195][585]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:209][586]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:222][587]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:236][588]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:250][589]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:264][590]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:277][591]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:291][592]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:305][593]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:318][594]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:331][595]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:345][596]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:359][597]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:372][598]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:386][599]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:400][600]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:413][601]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:427][602]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:441][603]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:454][604]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:468][605]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:481][606]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:495][607]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:509][608]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:523][609]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:537][610]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:550][611]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:564][612]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:578][613]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:591][614]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:606][615]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:619][616]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:632][617]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:647][618]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:662][619]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:673][620]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:686][621]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:700][622]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:714][623]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:727][624]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:740][625]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:755][626]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:768][627]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:781][628]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:796][629]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:810][630]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:823][631]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:837][632]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:850][633]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:864][634]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:877][635]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:890][636]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:904][637]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:918][638]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:932][639]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:946][640]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:959][641]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:973][642]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:986][643]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.16:999][644]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:013][645]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:027][646]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:041][647]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:055][648]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:069][649]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:083][650]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:096][651]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:110][652]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:123][653]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:137][654]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:150][655]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:164][656]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:920][711]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:935][712]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:950][713]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:963][714]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:977][715]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.17:991][716]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:006][717]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:019][718]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:034][719]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:047][720]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:061][721]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:076][722]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:089][723]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:102][724]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:117][725]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:131][726]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:145][727]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:158][728]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:172][729]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:186][730]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:201][731]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:214][732]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:227][733]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:241][734]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:255][735]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:269][736]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:284][737]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:297][738]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:311][739]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:325][740]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:338][741]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:352][742]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:366][743]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:380][744]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: BP_SubmarineCharacter_C_0.ThrottleButtons
+[2024.04.21-12.08.18:635][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-12.08.18:635][760]LogWorld: BeginTearingDown for /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game
+[2024.04.21-12.08.18:636][760]LogSlate: Window 'Submerged_GS Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.21-12.08.18:640][760]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-12.08.18:640][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-12.08.18:641][760]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2024.04.21-12.08.18:641][760]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2024.04.21-12.08.18:641][760]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2024.04.21-12.08.18:642][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-12.08.18:645][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-12.08.18:652][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-12.08.18:652][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.21-12.08.18:653][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.21-12.08.18:654][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.21-12.08.18:659][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.21-12.08.18:704][761]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.21-12.08.18:713][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.21-12.08.41:780][304]BlueprintLog: New page: Compile BP_SubmarineCharacter
+[2024.04.21-12.08.41:822][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.21-12.08.42:268][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-12.08.42:296][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-12.08.42:422][327]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter
+[2024.04.21-12.08.42:422][327]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/BP_SubmarineCharacter30E73ED445BF26163A11608E190B8161.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Characters/BP_SubmarineCharacter.uasset'
+[2024.04.21-12.08.42:434][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 277 ms)
+[2024.04.21-12.08.42:436][327]AssetCheck: New page: Asset Save: BP_SubmarineCharacter
+[2024.04.21-12.08.42:436][327]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter
+[2024.04.21-12.08.43:324][412]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.21-12.08.43:331][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-12.08.43:331][412]PIE: New page: PIE session: Main_Game (22 Apr 2024, 8:08:43 am)
+[2024.04.21-12.08.43:331][412]LogPlayLevel: Creating play world package: /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game
+[2024.04.21-12.08.43:332][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001291s)
+[2024.04.21-12.08.43:332][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Submerged/Levels/Game/Main_Game.Main_Game to /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game.Main_Game (0.001316s)
+[2024.04.21-12.08.43:342][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.21-12.08.43:344][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-12.08.43:344][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-12.08.43:344][412]LogAIModule: Creating AISystem for world Main_Game
+[2024.04.21-12.08.43:344][412]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2024.04.21-12.08.43:344][412]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-12.08.43:344][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-12.08.43:344][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-12.08.43:346][412]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-12.08.43:346][412]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-12.08.43:346][412]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-12.08.43:347][412]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-12.08.43:360][412]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- USB-C to 3.5mm Headphone Jack Adapter)
+[2024.04.21-12.08.43:360][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-12.08.43:360][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-12.08.43:360][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-12.08.43:361][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.21-12.08.43:361][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.21-12.08.43:362][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.21-12.08.43:362][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.21-12.08.43:362][412]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.21-12.08.43:362][412]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Game'.
+[2024.04.21-12.08.43:362][412]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.21-12.08.43:387][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-12.08.43:387][412]LogLoad: Game class is 'BP_GM_MainGame_C'
+[2024.04.21-12.08.43:392][412]LogWorld: Bringing World /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 0) at 2024.04.21-22.08.43
+[2024.04.21-12.08.43:394][412]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.21-12.08.43:394][412]LogWorld: Bringing up level for play took: 0.002436
+[2024.04.21-12.08.43:394][412]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.21-12.08.43:394][412]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.21-12.08.43:394][412]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.21-12.08.43:394][412]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.21-12.08.43:394][412]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.21-12.08.43:394][412]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2024.04.21-12.08.43:394][412]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.21-12.08.43:394][412]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.04.21-12.08.43:394][412]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.04.21-12.08.43:398][412]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.04.21-12.08.43:400][412]PIE: Server logged in
+[2024.04.21-12.08.43:401][412]PIE: Play in editor total start time 0.069 seconds.
+[2024.04.21-12.08.43:421][412]LogViewport: Scene viewport resized to 3840x2006, mode Windowed.
+[2024.04.21-12.08.45:110][526]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:124][527]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:207][533]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:221][534]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:234][535]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:248][536]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:291][539]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:305][540]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:319][541]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:332][542]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:346][543]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:360][544]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:374][545]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:388][546]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:401][547]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:844][580]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:859][581]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:872][582]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:886][583]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:900][584]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:914][585]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.45:928][586]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:262][611]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:275][612]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:289][613]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:302][614]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:316][615]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:329][616]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:342][617]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:357][618]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:370][619]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:384][620]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:398][621]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:411][622]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:425][623]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:438][624]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:451][625]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:465][626]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:478][627]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:490][628]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:504][629]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:517][630]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:531][631]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:544][632]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:558][633]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:571][634]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:585][635]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:598][636]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:612][637]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:626][638]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:639][639]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:653][640]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:666][641]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:679][642]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:693][643]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:706][644]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:720][645]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:733][646]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:774][649]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:788][650]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:802][651]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:816][652]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:829][653]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:844][654]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.46:858][655]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:255][684]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:268][685]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:282][686]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:296][687]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:309][688]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:322][689]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:337][690]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:350][691]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:363][692]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:378][693]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:392][694]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:406][695]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:420][696]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:433][697]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:447][698]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:460][699]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:474][700]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:487][701]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:502][702]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:516][703]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:530][704]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:544][705]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:558][706]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:570][707]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:584][708]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:598][709]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:611][710]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:624][711]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:638][712]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:652][713]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:666][714]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:682][715]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:692][716]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:707][717]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:720][718]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:732][719]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:747][720]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:762][721]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:775][722]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:788][723]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.47:802][724]LogBlueprintUserMessages: [BP_SubmarineCharacter_C_0] Server: Hello
+[2024.04.21-12.08.48:285][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-12.08.48:285][757]LogWorld: BeginTearingDown for /Game/Submerged/Levels/Game/UEDPIE_0_Main_Game
+[2024.04.21-12.08.48:285][757]LogSlate: Window 'Submerged_GS Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.21-12.08.48:291][757]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-12.08.48:291][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-12.08.48:291][757]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2024.04.21-12.08.48:291][757]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2024.04.21-12.08.48:291][757]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2024.04.21-12.08.48:295][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-12.08.48:298][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-12.08.48:304][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-12.08.48:304][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.21-12.08.48:304][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.21-12.08.48:306][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.21-12.08.48:312][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.21-12.08.48:374][758]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.21-12.08.48:383][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.21-12.09.33:282][ 79]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.21-12.09.33:282][ 79]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.21-12.09.43:686][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.21-12.09.43:699][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1
+[2024.04.21-12.09.43:699][277]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Maze_Walls_Auto11F9B31C04849ED847BAB6DBA5E28320B.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1.umap'
+[2024.04.21-12.09.43:702][277]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.21-12.09.43:702][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.023
+[2024.04.21-12.09.43:702][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2024.04.21-12.09.43:702][277]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter] ([2] browsable assets)...
+[2024.04.21-12.09.43:767][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter]
+[2024.04.21-12.09.43:768][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter]
+[2024.04.21-12.09.43:804][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter_Auto1
+[2024.04.21-12.09.43:804][277]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/BP_SubmarineCharacter_Auto1C436DF2A42004E4571779A909235BC01.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter_Auto1.uasset'
+[2024.04.21-12.09.43:805][277]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.04.21-12.10.06:949][ 29]BlueprintLog: New page: Compile BP_SubmarineCharacter
+[2024.04.21-12.10.06:995][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.21-12.10.07:462][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-12.10.07:591][ 56]LogSavePackage: Moving output files for package: /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter
+[2024.04.21-12.10.07:592][ 56]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/BP_SubmarineCharacter2589740E4AFEB7A6A1CC05862BCC2CDD.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Content/Submerged/Blueprints/Characters/BP_SubmarineCharacter.uasset'
+[2024.04.21-12.10.07:599][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 414 ms)
+[2024.04.21-12.10.07:600][ 56]AssetCheck: New page: Asset Save: BP_SubmarineCharacter
+[2024.04.21-12.10.07:600][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter
+[2024.04.21-12.10.10:009][345]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.21-12.11.14:584][903]LogEditorTransaction: Undo Delete current selection
+[2024.04.21-12.11.15:074][914]LogEditorTransaction: Undo Add Node
+[2024.04.21-12.11.15:518][945]LogEditorTransaction: Undo Move Node
+[2024.04.21-12.11.15:942][977]LogEditorTransaction: Undo Move Node
+[2024.04.21-12.11.16:267][997]LogEditorTransaction: Undo Add Node
+[2024.04.21-12.11.16:592][ 17]LogEditorTransaction: Undo Move Node
+[2024.04.21-12.11.17:108][ 60]LogEditorTransaction: Undo Move Node
+[2024.04.21-12.11.17:643][105]LogEditorTransaction: Undo Add Node
+[2024.04.21-12.11.19:779][342]LogEditorTransaction: Undo Move Node
+[2024.04.21-12.11.20:108][348]LogEditorTransaction: Undo Move Node
+[2024.04.21-12.11.20:651][390]LogEditorTransaction: Undo Add Node
+[2024.04.21-12.11.21:057][420]LogEditorTransaction: Undo Resize Node
+[2024.04.21-12.11.21:514][456]LogEditorTransaction: Undo Resize Node
+[2024.04.21-12.11.22:011][497]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.22:486][535]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.22:942][571]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.23:342][600]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.23:799][610]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.24:216][639]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.24:654][672]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.25:067][702]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.25:458][730]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.25:853][758]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.26:105][769]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.26:315][775]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.26:489][777]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.26:674][780]LogEditorTransaction: Undo Nudge Node
+[2024.04.21-12.11.28:847][ 19]LogEditorTransaction: Undo Move Nodes
+[2024.04.21-12.14.02:681][883]LogSlate: Took 0.003378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.21-12.26.33:298][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.21-12.26.33:310][ 73]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2
+[2024.04.21-12.26.33:310][ 73]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Maze_Walls_Auto2D7FD6E1E4068A9F7C89BA19289338C19.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2.umap'
+[2024.04.21-12.26.33:312][ 73]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Maze_Walls_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.21-12.26.33:313][ 73]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.037
+[2024.04.21-12.26.33:313][ 73]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.04.21-12.26.33:313][ 73]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter] ([2] browsable assets)...
+[2024.04.21-12.26.33:380][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter]
+[2024.04.21-12.26.33:380][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter]
+[2024.04.21-12.26.33:419][ 73]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter_Auto2
+[2024.04.21-12.26.33:420][ 73]LogSavePackage: Moving '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/BP_SubmarineCharacter_Auto253CC70E94055F9CC231946970111A9E8.tmp' to '../../../../../../GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter_Auto2.uasset'
+[2024.04.21-12.26.33:421][ 73]LogFileHelpers: Auto-saving content packages took 0.109
