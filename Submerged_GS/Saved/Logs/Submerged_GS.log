@@ -1361,3 +1361,49 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-11.41.56:130][322]AssetCheck: New page: Asset Save: Main_Game
 [2024.05.07-11.41.56:130][322]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Main_Game.Main_Game
 [2024.05.07-11.41.59:833][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.07-11.44.00:492][832]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.07-11.46.38:313][461]LogAutomationController: Ignoring very large delta of 6.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.07-11.53.30:074][922]LogRenderer: Warning: The film grain texture is not streamed in.
+[2024.05.07-11.53.30:260][937]LogRenderer: Warning: The film grain texture is not streamed in.
+[2024.05.07-11.53.30:488][952]LogRenderer: Warning: The film grain texture has pending update.
+[2024.05.07-11.57.55:975][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.57.56:067][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.57.56:077][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.07-11.57.56:082][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.07-11.57.56:085][624]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.57.56:087][624]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst863D406249402B3F575FB2B4CDA8D58A.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.57.56:098][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.08 sec)
+[2024.05.07-11.57.56:099][624]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.57.56:099][624]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.58.47:677][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.05.07-11.58.47:694][ 60]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1
+[2024.05.07-11.58.47:694][ 60]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Main_Game_Auto1CD537FBE49882B937AF583A20F7AB275.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1.umap'
+[2024.05.07-11.58.47:699][ 60]LogAssetRegistry: Warning: ScanPathsSynchronous: G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Main_Game_Auto1.umap is in the /Temp path, will not scan.
+[2024.05.07-11.58.47:699][ 60]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.027
+[2024.05.07-11.58.47:699][ 60]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.05.07-12.00.26:674][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-12.02.18:596][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-12.02.18:724][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.07-12.02.18:742][431]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Main_Game
+[2024.05.07-12.02.18:742][431]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Main_Game85DC7A0D4D6D360D018927B5D0A1A23C.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Main_Game.umap'
+[2024.05.07-12.02.18:766][431]LogFileHelpers: Saving map 'Main_Game' took 0.130
+[2024.05.07-12.02.18:775][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 2.25 sec)
+[2024.05.07-12.02.18:777][431]AssetCheck: New page: Asset Save: Main_Game
+[2024.05.07-12.02.18:777][431]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Main_Game.Main_Game
+[2024.05.07-12.02.20:493][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-12.02.20:532][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-12.02.20:537][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.07-12.02.20:541][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.07-12.02.20:547][565]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-12.02.20:548][565]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_InstC86A0FA346690DC57BA2679DA865C494.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-12.02.20:558][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.32 sec)
+[2024.05.07-12.02.20:559][565]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-12.02.20:559][565]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-12.02.22:070][732]LogMaterialEditor: Saving and Compiling material WaterShader
+[2024.05.07-12.02.22:073][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-12.02.22:108][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/WaterShader" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/WaterShader.uasset" SILENT=true
+[2024.05.07-12.02.22:139][732]LogSavePackage: Moving output files for package: /Game/Submerged/WaterShader
+[2024.05.07-12.02.22:139][732]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/WaterShaderFD5070314D9392493EDF91851CDC6ADE.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/WaterShader.uasset'
+[2024.05.07-12.02.22:150][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.40 sec)
+[2024.05.07-12.02.22:152][732]AssetCheck: New page: Asset Save: WaterShader
+[2024.05.07-12.02.22:152][732]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Submerged/WaterShader.WaterShader
