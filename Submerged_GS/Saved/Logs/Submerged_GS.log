@@ -1203,3 +1203,161 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-11.29.21:863][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms
 [2024.05.07-11.29.21:864][ 93]AssetCheck: New page: Asset Save: WaterShader
 [2024.05.07-11.29.21:864][ 93]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Submerged/WaterShader.WaterShader
+[2024.05.07-11.31.54:594][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.07-11.31.54:594][914]Can't find target element.
+[2024.05.07-11.31.58:705][114]LogSlate: Took 0.005847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.07-11.31.58:920][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: ================================================
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: Total job queries 12, among them cache hits 4 (33.33%)
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 7 distinct outputs (87.50%)
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: RAM used: 145.92 KiB of 819.20 MiB budget. Usage: 0.02%
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.07-11.31.58:948][126]LogShaderCompilers: Display: ================================================
+[2024.05.07-11.32.02:087][447]LogEditorViewport: Clicking Background
+[2024.05.07-11.32.06:149][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.07-11.32.08:259][802]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.05.07-11.32.08:276][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-11.32.08:308][802]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Submerged/Levels/Game/Main_Game.Main_Game
+[2024.05.07-11.32.08:309][802]Cmd: MAP LOAD FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Main_Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.07-11.32.08:309][802]LightingResults: New page: Lighting Build
+[2024.05.07-11.32.08:309][802]LoadErrors: New page: Loading map: Main_Game.umap
+[2024.05.07-11.32.08:401][802]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-11.32.08:402][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-11.32.08:403][802]MapCheck: New page: Map Check
+[2024.05.07-11.32.08:403][802]LightingResults: New page: Lighting Build
+[2024.05.07-11.32.08:413][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-11.32.08:421][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.07-11.32.08:424][802]LogWorld: UWorld::CleanupWorld for Main_Game, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-11.32.08:424][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-11.32.08:432][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.07-11.32.08:437][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.07-11.32.08:443][802]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Game'.
+[2024.05.07-11.32.08:443][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-11.32.08:443][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-11.32.08:443][802]LogAIModule: Creating AISystem for world Main_Game
+[2024.05.07-11.32.08:449][802]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Submerged/Levels/Game/Sublevels/Maze_Walls) is flushing async loading
+[2024.05.07-11.32.08:449][802]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.05.07-11.32.08:493][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.07-11.32.08:503][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.07-11.32.08:521][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.07-11.32.08:521][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2024.05.07-11.32.08:585][802]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.07-11.32.55:902][976]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.07-11.33.20:062][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.33.20:195][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.07-11.33.20:209][417]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Main_Game
+[2024.05.07-11.33.20:210][417]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Main_Game9D259A0D41716EEEB4C16685A3669265.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Main_Game.umap'
+[2024.05.07-11.33.20:236][417]LogFileHelpers: Saving map 'Main_Game' took 0.125
+[2024.05.07-11.33.20:245][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 342 ms)
+[2024.05.07-11.33.20:247][417]AssetCheck: New page: Asset Save: Main_Game
+[2024.05.07-11.33.20:247][417]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Main_Game.Main_Game
+[2024.05.07-11.34.15:090][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.34.15:222][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.07-11.34.15:237][689]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Main_Game
+[2024.05.07-11.34.15:238][689]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Main_Game1EFA89D3494F8C81994F3FAF79E5E58B.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Main_Game.umap'
+[2024.05.07-11.34.15:260][689]LogFileHelpers: Saving map 'Main_Game' took 0.121
+[2024.05.07-11.34.15:268][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 521 ms)
+[2024.05.07-11.34.15:270][689]AssetCheck: New page: Asset Save: Main_Game
+[2024.05.07-11.34.15:270][689]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Main_Game.Main_Game
+[2024.05.07-11.34.41:622][607]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.34.41:628][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-11.34.41:628][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-11.34.41:924][607]LogViewport: Scene viewport resized to 1778x1161, mode Windowed.
+[2024.05.07-11.34.43:324][680]LogViewport: Scene viewport resized to 1774x1196, mode Windowed.
+[2024.05.07-11.34.43:422][682]LogViewport: Scene viewport resized to 542x256, mode Windowed.
+[2024.05.07-11.34.43:699][706]LogViewport: Scene viewport resized to 1778x1161, mode Windowed.
+[2024.05.07-11.34.44:571][805]LogSlate: Window 'Caustics_Inst' being destroyed
+[2024.05.07-11.34.48:566][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.34.48:668][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.34.48:672][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.07-11.34.48:680][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.05.07-11.34.48:685][198]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.34.48:685][198]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_InstECA604DB4D096F4A6F16EEB812A50DF5.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.34.48:698][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 653 ms)
+[2024.05.07-11.34.48:698][198]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.34.48:699][198]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.35.00:401][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.35.00:517][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.35.00:520][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.07-11.35.00:524][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.05.07-11.35.00:527][137]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.35.00:528][137]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst665EA666480259062B73D88206901D8E.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.35.00:540][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 793 ms)
+[2024.05.07-11.35.00:542][137]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.35.00:542][137]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.40.53:041][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.40.53:157][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.40.53:161][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-11.40.53:165][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.05.07-11.40.53:169][319]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.40.53:170][319]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst0257479E473D7EC7D40A358F186D1BAB.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.40.53:181][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 933 ms)
+[2024.05.07-11.40.53:183][319]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.40.53:183][319]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.02:255][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.02:370][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.41.02:374][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.07-11.41.02:377][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.07-11.41.02:382][ 50]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.41.02:383][ 50]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst560CAAA348989DF59366FFADEE4225C1.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.41.02:396][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 1.07 sec)
+[2024.05.07-11.41.02:397][ 50]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.41.02:397][ 50]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.08:181][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.08:305][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.41.08:312][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.07-11.41.08:320][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.07-11.41.08:324][541]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.41.08:324][541]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst5D25C0314DFCFC07433AE98C9A3C7A9D.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.41.08:335][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.22 sec)
+[2024.05.07-11.41.08:347][541]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.41.08:347][541]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.13:571][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.13:664][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.41.13:668][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.07-11.41.13:672][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.07-11.41.13:678][984]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.41.13:678][984]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst8CA533154D15C6D16E4250BDEF781AD8.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.41.13:691][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.34 sec)
+[2024.05.07-11.41.13:692][984]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.41.13:692][984]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.26:879][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.26:992][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.41.26:995][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.07-11.41.26:999][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.07-11.41.27:003][ 64]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.41.27:004][ 64]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_InstDDFED5124E89AF61619A6B89A57CE821.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.41.27:016][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.48 sec)
+[2024.05.07-11.41.27:017][ 64]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.41.27:017][ 64]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.32:521][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.32:635][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.41.32:638][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.05.07-11.41.32:643][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.07-11.41.32:647][539]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.41.32:648][539]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_InstBD7B03F3468CF1B736A1F9A2D6C7587F.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.41.32:659][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.62 sec)
+[2024.05.07-11.41.32:660][539]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.41.32:660][539]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.41:445][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.41:561][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Submerged/Caustics_Inst" FILE="G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset" SILENT=true
+[2024.05.07-11.41.41:564][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.07-11.41.41:569][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.05.07-11.41.41:571][266]LogSavePackage: Moving output files for package: /Game/Submerged/Caustics_Inst
+[2024.05.07-11.41.41:572][266]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Caustics_Inst163050644F331E296F4C558F2F9D14D4.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Caustics_Inst.uasset'
+[2024.05.07-11.41.41:584][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.76 sec)
+[2024.05.07-11.41.41:585][266]AssetCheck: New page: Asset Save: Caustics_Inst
+[2024.05.07-11.41.41:585][266]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Submerged/Caustics_Inst.Caustics_Inst
+[2024.05.07-11.41.55:932][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-11.41.56:070][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.07-11.41.56:085][322]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Main_Game
+[2024.05.07-11.41.56:086][322]LogSavePackage: Moving 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Saved/Main_Game175FBA70400E75E34496BBAAF0E66072.tmp' to 'G:/Year 3/Game Studio/Repository/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Main_Game.umap'
+[2024.05.07-11.41.56:109][322]LogFileHelpers: Saving map 'Main_Game' took 0.119
+[2024.05.07-11.41.56:129][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 1.95 sec)
+[2024.05.07-11.41.56:130][322]AssetCheck: New page: Asset Save: Main_Game
+[2024.05.07-11.41.56:130][322]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Main_Game.Main_Game
+[2024.05.07-11.41.59:833][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
