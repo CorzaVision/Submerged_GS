@@ -1025,3 +1025,49 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.14-08.19.52:272][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
 [2024.05.14-08.19.52:272][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2024.05.14-08.19.52:410][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.05.14-08.19.53:993][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.05.14-08.19.53:993][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.05.14-08.19.54:004][  0]LogUObjectArray: 21917 objects as part of root set at end of initial load.
+[2024.05.14-08.19.54:004][  0]LogUObjectAllocator: 6142568 out of 0 bytes used by permanent object pool.
+[2024.05.14-08.19.54:004][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.05.14-08.19.54:047][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.05.14-08.19.54:047][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.05.14-08.19.54:048][  0]LogLiveCoding: Display: First instance in process group "UE_Submerged_GS_0x670acea9", spawning console
+[2024.05.14-08.19.54:238][  0]LogSlate: Border
+[2024.05.14-08.19.54:238][  0]LogSlate: BreadcrumbButton
+[2024.05.14-08.19.54:238][  0]LogSlate: Brushes.Title
+[2024.05.14-08.19.54:238][  0]LogSlate: Default
+[2024.05.14-08.19.54:238][  0]LogSlate: Icons.Save
+[2024.05.14-08.19.54:238][  0]LogSlate: Icons.Toolbar.Settings
+[2024.05.14-08.19.54:238][  0]LogSlate: ListView
+[2024.05.14-08.19.54:238][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.05.14-08.19.54:238][  0]LogSlate: SoftwareCursor_Grab
+[2024.05.14-08.19.54:238][  0]LogSlate: TableView.DarkRow
+[2024.05.14-08.19.54:238][  0]LogSlate: TableView.Row
+[2024.05.14-08.19.54:238][  0]LogSlate: TreeView
+[2024.05.14-08.19.54:792][  0]LogLiveCoding: Display: Waiting for server
+[2024.05.14-08.19.55:482][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.05.14-08.19.55:489][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 7 ms
+[2024.05.14-08.19.55:601][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2024.05.14-08.19.55:601][  0]LogInit: XR: MultiViewport is Disabled
+[2024.05.14-08.19.55:601][  0]LogInit: XR: Mobile Multiview is Disabled
+[2024.05.14-08.19.55:601][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-2S080BG: (Name=DESKTOP-2S080BG, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.22631.0, Flags="Device_InstallSoftwareValid")
+[2024.05.14-08.19.55:647][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.05.14-08.19.56:583][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F50002EC4A1909B948543482E341C97D | Instance: A52E59E846CC8AF0793DE49850598B4E (DESKTOP-2S080BG-1376).
+[2024.05.14-08.19.57:995][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.05.14-08.19.58:026][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.05.14-08.19.58:436][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.05.14-08.19.58:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.05.14-08.19.58:471][  0]LogUdpMessaging: Display: Added local interface '192.168.20.11' to multicast group '230.0.0.1:6666'
+[2024.05.14-08.20.00:045][  0]LogPython: Using Python 3.9.7
+[2024.05.14-08.20.01:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.05.14-08.20.01:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.14-08.20.01:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.14-08.20.03:449][  0]LogUProjectInfo: Found projects:
+[2024.05.14-08.20.06:070][  0]LogOpenImageDenoise: OIDN starting up
+[2024.05.14-08.20.06:324][  0]LogCollectionManager: Loaded 0 collections in 0.001901 seconds
+[2024.05.14-08.20.06:326][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/Collections/' took 0.00s
+[2024.05.14-08.20.06:329][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Developers/geema/Collections/' took 0.00s
+[2024.05.14-08.20.06:331][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Collections/' took 0.00s
+[2024.05.14-08.20.07:200][  0]LogEngine: Initializing Engine...
+[2024.05.14-08.20.07:236][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
