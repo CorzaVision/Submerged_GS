@@ -1071,3 +1071,146 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.14-08.20.06:331][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Collections/' took 0.00s
 [2024.05.14-08.20.07:200][  0]LogEngine: Initializing Engine...
 [2024.05.14-08.20.07:236][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.05.14-08.20.07:703][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.05.14-08.20.07:761][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-08.20.07:764][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-08.20.07:805][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.05.14-08.20.07:810][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.05.14-08.20.07:810][  0]LogInit: Texture streaming: Enabled
+[2024.05.14-08.20.07:904][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.05.14-08.20.07:936][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.05.14-08.20.07:993][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.05.14-08.20.07:999][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.05.14-08.20.07:999][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.05.14-08.20.08:001][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.05.14-08.20.08:001][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.05.14-08.20.08:001][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.05.14-08.20.08:001][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.05.14-08.20.08:002][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.05.14-08.20.08:002][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.14-08.20.08:003][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.14-08.20.08:003][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.14-08.20.08:004][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.14-08.20.08:004][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.14-08.20.08:004][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.14-08.20.08:068][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.14-08.20.08:120][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB-C to 3.5mm Headphone Jack Adapter)
+[2024.05.14-08.20.08:122][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.14-08.20.08:148][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.14-08.20.08:148][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.14-08.20.08:150][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.05.14-08.20.08:150][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.14-08.20.08:153][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.14-08.20.08:153][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.05.14-08.20.08:153][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.05.14-08.20.08:153][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.14-08.20.08:153][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.14-08.20.08:252][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.05.14-08.20.08:261][  0]LogInit: Undo buffer set to 32 MB
+[2024.05.14-08.20.08:262][  0]LogInit: Transaction tracking system initialized
+[2024.05.14-08.20.08:448][  0]LogSlate: Took 0.005885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'E:/UE_5.3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'G:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'F:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'F:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'F:/Year 3': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/corza': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/corza': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/corza': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/corza': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'C:/Users/corza': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Github/Projects': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Github/Projects': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Github/Projects': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Unreal Projects': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Unreal Projects': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Unreal Projects': No such file or directory
+[2024.05.14-08.20.11:533][  0]SourceControl: Error: fatal: Invalid path 'D:/Unreal Projects': No such file or directory
+[2024.05.14-08.20.11:534][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.05.14-08.20.11:536][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Saved/SourceControl/UncontrolledChangelists.json
+[2024.05.14-08.20.11:536][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.05.14-08.20.11:538][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.001642 seconds (Found 0 uncontrolled assets)
+[2024.05.14-08.20.11:598][  0]BlueprintLog: New page: Editor Load
+[2024.05.14-08.20.12:082][  0]LocalizationService: Localization service is disabled
+[2024.05.14-08.20.12:165][  0]TimingProfiler: Initialize
+[2024.05.14-08.20.12:168][  0]TimingProfiler: OnSessionChanged
+[2024.05.14-08.20.12:168][  0]LoadingProfiler: Initialize
+[2024.05.14-08.20.12:168][  0]LoadingProfiler: OnSessionChanged
+[2024.05.14-08.20.12:168][  0]NetworkingProfiler: Initialize
+[2024.05.14-08.20.12:169][  0]NetworkingProfiler: OnSessionChanged
+[2024.05.14-08.20.12:170][  0]MemoryProfiler: Initialize
+[2024.05.14-08.20.12:170][  0]MemoryProfiler: OnSessionChanged
+[2024.05.14-08.20.12:986][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/' took 0.01s
+[2024.05.14-08.20.13:844][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.05.14-08.20.14:194][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.05.14-08.20.14:391][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.05.14-08.20.14:405][  0]LogUnrealEdMisc: Loading editor; pre map load, took 38.537
+[2024.05.14-08.20.14:406][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Menu/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.14-08.20.14:413][  0]LightingResults: New page: Lighting Build
+[2024.05.14-08.20.14:421][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-08.20.14:421][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-08.20.14:423][  0]MapCheck: New page: Map Check
+[2024.05.14-08.20.14:423][  0]LightingResults: New page: Lighting Build
+[2024.05.14-08.20.14:437][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.14-08.20.14:450][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.14-08.20.14:578][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2024.05.14-08.20.14:578][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-08.20.14:578][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-08.20.14:578][  0]LogAIModule: Creating AISystem for world Main_Menu
+[2024.05.14-08.20.14:586][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.14-08.20.14:596][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.14-08.20.14:597][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.14-08.20.14:597][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2024.05.14-08.20.14:668][  0]LogUnrealEdMisc: Total Editor Startup Time, took 38.801
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: ================================================
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.14-08.20.14:668][  0]LogShaderCompilers: Display: ================================================
+[2024.05.14-08.20.14:802][  0]LogAssetRegistry: Display: Asset registry cache written as 17.1 MiB to ../../../../GitHub/Submerged_GS/Submerged_GS/Submerged_GS/Intermediate/CachedAssetRegistry_*.bin
+[2024.05.14-08.20.14:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-08.20.14:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-08.20.14:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-08.20.14:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-08.20.15:022][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:033][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:035][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:044][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:045][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:052][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:054][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:061][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:062][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:069][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:069][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:076][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:077][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:084][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:084][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:090][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:091][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:099][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:101][  0]LogPakFile: Initializing PakPlatformFile
+[2024.05.14-08.20.15:109][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.05.14-08.20.15:843][  0]LogSlate: Took 0.006627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.14-08.20.15:852][  0]LogSlate: Took 0.006529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.14-08.20.15:858][  0]LogSlate: Took 0.005485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.14-08.20.15:887][  0]LogViewport: Scene viewport resized to 1748x717, mode Windowed.
+[2024.05.14-08.20.16:143][  0]LogStall: Startup...
