@@ -1206,3 +1206,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-09.46.31:953][438]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.05.30-09.46.31:953][438]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.272ms to complete.
 [2024.05.30-09.48.25:250][965]LogDerivedDataCache: C:/Users/Billy Chapman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8520 files in 10755 folders with total size 3693 MiB.
+[2024.05.30-09.57.09:421][537]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.05.30-09.57.09:421][537]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.05.30-09.57.09:421][537]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Content/Developers/BillyChapman/Collections/' because it could not be accessed. Aborting watch request...
+[2024.05.30-09.57.35:092][614]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.05.30-09.57.35:092][614]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.05.30-09.57.43:791][614]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.30-09.57.44:488][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.57.44:744][614]LogObjectTools: Deleting 1 worlds: /Game/Megascans_4k/Map/Overview_Wasteland.Overview_Wasteland
+[2024.05.30-09.57.44:744][614]LogObjectTools: Currently 10 active worlds: /Game/Submerged/Levels/Game/Main_Game.Main_Game, /Game/Submerged/Levels/Game/Sublevels/Maze_Walls.Maze_Walls, /Game/Submerged/Levels/Game/Sublevels/2ndPlayerScreens.2ndPlayerScreens, /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2024.05.30-09.57.44:779][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.05.30-09.57.57:910][614]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.57.57:943][614]LogWorld: UWorld::CleanupWorld for Overview_Wasteland, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-09.57.57:983][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-09.58.05:649][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.30-09.58.05:664][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.30-09.58.05:675][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.30-09.58.06:511][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.58.20:351][163]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.30-09.58.20:481][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.30-09.58.22:285][163]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.58.22:726][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.30-09.58.22:738][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.30-09.58.22:749][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.30-09.58.28:512][795]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.30-09.58.28:932][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.30-09.58.30:865][795]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.58.31:741][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.30-09.58.31:753][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.30-09.58.31:763][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.30-09.58.31:991][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.58.32:091][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.58.32:176][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: ================================================
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: Total job queries 61, among them cache hits 17 (27.87%)
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 30 distinct outputs (68.18%)
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: RAM used: 953.15 KiB of 819.20 MiB budget. Usage: 0.11%
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.30-09.58.32:302][807]LogShaderCompilers: Display: ================================================
+[2024.05.30-09.58.41:579][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.30-09.58.42:667][803]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.58.42:835][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.30-09.58.42:848][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.30-09.58.42:859][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.30-09.58.43:060][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.58.50:659][637]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.30-09.58.50:708][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.30-09.58.51:944][637]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.58.52:150][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.30-09.58.52:161][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.30-09.58.52:172][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.30-09.58.59:589][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.30-09.59.00:414][434]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.59.00:562][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.30-09.59.00:575][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.30-09.59.00:586][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.30-09.59.00:780][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.59.05:620][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.30-09.59.06:469][959]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.59.06:598][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.30-09.59.06:613][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.30-09.59.06:625][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.30-09.59.09:047][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.30-09.59.09:977][208]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-09.59.10:051][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.30-09.59.10:064][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.30-09.59.10:077][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.30-09.59.16:870][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.30-10.15.14:372][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.30-10.15.15:394][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-10.15.15:457][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.30-10.15.15:469][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.30-10.15.15:481][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.30-10.15.18:211][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.30-10.15.18:989][301]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-10.15.19:054][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.30-10.15.19:067][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.30-10.15.19:076][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.30-10.16.10:420][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.30-10.48.27:139][648]LogDerivedDataCache: C:/Users/Billy Chapman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8928 files in 11202 folders with total size 3693 MiB.
+[2024.05.30-11.48.27:228][447]LogDerivedDataCache: C:/Users/Billy Chapman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.155 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8928 files in 11202 folders with total size 3693 MiB.
