@@ -1290,3 +1290,591 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-10.16.10:420][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2024.05.30-10.48.27:139][648]LogDerivedDataCache: C:/Users/Billy Chapman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8928 files in 11202 folders with total size 3693 MiB.
 [2024.05.30-11.48.27:228][447]LogDerivedDataCache: C:/Users/Billy Chapman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.155 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8928 files in 11202 folders with total size 3693 MiB.
+[2024.05.30-11.58.06:191][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.06:191][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.06:199][693]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_7
+[2024.05.30-11.58.06:318][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.06:318][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.06:328][695]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_8
+[2024.05.30-11.58.07:058][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:058][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:059][701]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_9
+[2024.05.30-11.58.07:132][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:132][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:133][706]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_10
+[2024.05.30-11.58.07:705][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:705][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:705][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_11
+[2024.05.30-11.58.07:813][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:813][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.07:813][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_12
+[2024.05.30-11.58.08:423][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.08:423][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.08:424][812]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_13
+[2024.05.30-11.58.08:565][826]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.08:565][826]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.08:566][826]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_14
+[2024.05.30-11.58.09:189][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.09:189][883]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.09:189][883]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_15
+[2024.05.30-11.58.09:318][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.09:318][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-11.58.09:319][896]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Main_Game.Main_Game:PersistentLevel.StaticMeshActor_16
+[2024.05.30-11.58.10:540][ 31]Cmd: TRANSACTION UNDO
+[2024.05.30-11.58.10:540][ 31]LogEditorTransaction: Undo Create Actors
+[2024.05.30-11.58.10:715][ 35]Cmd: TRANSACTION UNDO
+[2024.05.30-11.58.10:715][ 35]LogEditorTransaction: Undo Create Actors
+[2024.05.30-11.58.10:988][ 42]Cmd: TRANSACTION UNDO
+[2024.05.30-11.58.10:988][ 42]LogEditorTransaction: Undo Create Actors
+[2024.05.30-11.58.11:301][ 65]Cmd: TRANSACTION UNDO
+[2024.05.30-11.58.11:301][ 65]LogEditorTransaction: Undo Create Actors
+[2024.05.30-11.58.11:835][116]Cmd: TRANSACTION UNDO
+[2024.05.30-11.58.11:835][116]LogEditorTransaction: Undo Create Actors
+[2024.05.30-11.58.46:863][164]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.30-11.58.48:767][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.30-11.58.48:767][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.30-11.58.48:769][367]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_0
+[2024.05.30-11.58.48:771][367]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_0
+[2024.05.30-12.00.22:113][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/11_Granite_Rock_ohlx3/ohlx3_LOD0.ohlx3_LOD0
+[2024.05.30-12.00.22:113][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/11_Granite_Rock_ohlx3/ohlx3_LOD0.ohlx3_LOD0
+[2024.05.30-12.00.22:114][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/11_Granite_Rock_ohlx3/ohlx3_LOD0.ohlx3_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_1
+[2024.05.30-12.00.22:506][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/11_Granite_Rock_ohlx3/ohlx3_LOD0.ohlx3_LOD0
+[2024.05.30-12.00.22:506][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/11_Granite_Rock_ohlx3/ohlx3_LOD0.ohlx3_LOD0
+[2024.05.30-12.00.22:507][802]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/11_Granite_Rock_ohlx3/ohlx3_LOD0.ohlx3_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_2
+[2024.05.30-12.00.44:158][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-12.00.44:158][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-12.00.44:159][ 76]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_3
+[2024.05.30-12.00.44:563][119]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-12.00.44:563][119]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0
+[2024.05.30-12.00.44:564][119]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/08_Granite_Rocks_oheuu/oheuu_LOD0.oheuu_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_4
+[2024.05.30-12.01.10:763][ 19]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/14_Rocks_ohdbf/ohdbf_LOD0.ohdbf_LOD0
+[2024.05.30-12.01.10:763][ 19]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/14_Rocks_ohdbf/ohdbf_LOD0.ohdbf_LOD0
+[2024.05.30-12.01.10:763][ 19]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/14_Rocks_ohdbf/ohdbf_LOD0.ohdbf_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_5
+[2024.05.30-12.01.11:304][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/14_Rocks_ohdbf/ohdbf_LOD0.ohdbf_LOD0
+[2024.05.30-12.01.11:304][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/14_Rocks_ohdbf/ohdbf_LOD0.ohdbf_LOD0
+[2024.05.30-12.01.11:305][ 75]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/14_Rocks_ohdbf/ohdbf_LOD0.ohdbf_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_6
+[2024.05.30-12.01.18:291][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/18_Granite_Rock_pdcgj/pdcgj_LOD0.pdcgj_LOD0
+[2024.05.30-12.01.18:291][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/18_Granite_Rock_pdcgj/pdcgj_LOD0.pdcgj_LOD0
+[2024.05.30-12.01.18:292][874]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/18_Granite_Rock_pdcgj/pdcgj_LOD0.pdcgj_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_7
+[2024.05.30-12.01.18:865][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/18_Granite_Rock_pdcgj/pdcgj_LOD0.pdcgj_LOD0
+[2024.05.30-12.01.18:865][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/18_Granite_Rock_pdcgj/pdcgj_LOD0.pdcgj_LOD0
+[2024.05.30-12.01.18:866][932]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/18_Granite_Rock_pdcgj/pdcgj_LOD0.pdcgj_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_8
+[2024.05.30-12.01.22:557][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0
+[2024.05.30-12.01.22:557][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0
+[2024.05.30-12.01.22:558][333]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_9
+[2024.05.30-12.01.23:226][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0
+[2024.05.30-12.01.23:226][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0
+[2024.05.30-12.01.23:227][408]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0 as actor: StaticMeshActor /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.StaticMeshActor_10
+[2024.05.30-12.01.30:617][203]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.30-12.01.54:518][909]LogShaderCompilers: Display: ================================================
+[2024.05.30-12.01.54:518][909]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Total job queries 69, among them cache hits 17 (24.64%)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 32 distinct outputs (64.00%)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: RAM used: 1.06 MiB of 819.20 MiB budget. Usage: 0.13%
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Jobs assigned 8, completed 6 (75.00%)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Average time worker was idle: 7399.64 s
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 1.34 s
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Job life time (pending + execution): average 1.04 s, max 1.35
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Shader code size: average 35.573 KiB, min 33.27 KiB, max 38.07 KiB
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.99 s
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Average processing rate: 3.02 jobs/sec
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Total thread time: 2.788 s
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Total thread preprocess time: 1.621 s
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Percentage time preprocessing: 58.16%
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Effective parallelization: 1.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.57 sec, min 0.27 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.41 sec, max 0.55 sec, min 0.27 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.80% of total time (compiled    2 times, average 0.42 sec, max 0.57 sec, min 0.27 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                                 FLumenCardVS - 29.43% of total time (compiled    2 times, average 0.41 sec, max 0.55 sec, min 0.27 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.99% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.78% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.05.30-12.01.54:519][909]LogShaderCompilers: Display: ================================================
+[2024.05.30-12.02.21:634][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.05.30-12.02.21:657][480]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.009995 seconds
+[2024.05.30-12.02.21:667][480]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto1
+[2024.05.30-12.02.21:667][480]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_Layout_Auto16B4A73D8458F3F9DBBC3E9841A510DBC.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto1.umap'
+[2024.05.30-12.02.21:670][480]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto1.umap is in the /Temp path, will not scan.
+[2024.05.30-12.02.21:670][480]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto1 is in the /Temp path, will not scan.
+[2024.05.30-12.02.21:670][480]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto1 is in the /Temp path, will not scan.
+[2024.05.30-12.02.21:670][480]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.072
+[2024.05.30-12.02.21:670][480]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2024.05.30-12.03.13:438][ 19]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.05.30-12.03.13:438][ 19]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.05.30-12.03.13:438][ 19]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.05.30-12.03.18:852][583]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-12.03.18:909][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-12.03.18:961][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-12.03.43:105][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-12.03.46:921][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.03.46:921][529]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.03.46:938][529]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_0
+[2024.05.30-12.03.46:949][529]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_0
+[2024.05.30-12.03.47:487][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.03.47:487][551]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.03.47:502][551]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_1
+[2024.05.30-12.03.47:512][551]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_1
+[2024.05.30-12.03.47:738][552]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.04.03:509][669]Cmd: DELETE
+[2024.05.30-12.04.03:509][669]Cmd: ACTOR DELETE
+[2024.05.30-12.04.03:533][669]LogEditorActor: Deleted Actor: BP_SubmarineCharacter_C
+[2024.05.30-12.04.03:567][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.30-12.04.03:570][669]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2024.05.30-12.04.44:890][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.04.44:890][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.04.44:900][890]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_2
+[2024.05.30-12.04.44:910][890]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_2
+[2024.05.30-12.04.45:297][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.04.45:297][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter_C
+[2024.05.30-12.04.45:309][905]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_3
+[2024.05.30-12.04.45:319][905]LogActorFactory: Actor Factory spawned Blueprint /Game/Submerged/Blueprints/Characters/BP_SubmarineCharacter.BP_SubmarineCharacter as actor: BP_SubmarineCharacter_C /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout:PersistentLevel.BP_SubmarineCharacter_C_3
+[2024.05.30-12.04.45:505][906]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.05.48:825][867]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.06.13:690][188]Cmd: DUPLICATE
+[2024.05.30-12.06.13:690][188]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.06.50:541][301]EditorErrors: New page: Actor attachment
+[2024.05.30-12.07.00:319][355]EditorErrors: New page: Actor attachment
+[2024.05.30-12.07.02:249][562]EditorErrors: New page: Actor attachment
+[2024.05.30-12.07.07:409][110]Cmd: DUPLICATE
+[2024.05.30-12.07.07:409][110]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.07.14:361][910]EditorErrors: New page: Actor attachment
+[2024.05.30-12.07.16:102][ 86]EditorErrors: New page: Actor attachment
+[2024.05.30-12.09.58:822][265]Cmd: DUPLICATE
+[2024.05.30-12.09.58:822][265]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.10.18:565][362]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.12.22:048][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.30-12.12.22:059][529]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto2
+[2024.05.30-12.12.22:060][529]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_Layout_Auto23AE2E03646A0155F56C2FC8DE59F9198.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto2.umap'
+[2024.05.30-12.12.22:061][529]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto2.umap is in the /Temp path, will not scan.
+[2024.05.30-12.12.22:061][529]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.044
+[2024.05.30-12.12.22:061][529]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.05.30-12.12.59:836][451]Cmd: DUPLICATE
+[2024.05.30-12.12.59:836][451]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.13.10:417][481]Cmd: DUPLICATE
+[2024.05.30-12.13.10:417][481]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.13.54:232][348]Cmd: DUPLICATE
+[2024.05.30-12.13.54:232][348]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.14.58:781][729]Cmd: DUPLICATE
+[2024.05.30-12.14.58:781][729]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.15.43:009][427]Cmd: DUPLICATE
+[2024.05.30-12.15.43:009][427]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.16.42:039][381]Cmd: DUPLICATE
+[2024.05.30-12.16.42:039][381]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.17.26:062][332]Cmd: DUPLICATE
+[2024.05.30-12.17.26:062][332]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.17.50:426][137]Cmd: DUPLICATE
+[2024.05.30-12.17.50:426][137]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.18.10:116][325]Cmd: DUPLICATE
+[2024.05.30-12.18.10:116][325]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.18.51:744][906]Cmd: DUPLICATE
+[2024.05.30-12.18.51:744][906]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.21.23:658][245]Cmd: DUPLICATE
+[2024.05.30-12.21.23:658][245]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.21.39:441][882]Cmd: DUPLICATE
+[2024.05.30-12.21.39:441][882]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.21.56:230][744]EditorErrors: New page: Actor attachment
+[2024.05.30-12.21.59:228][ 63]EditorErrors: New page: Actor attachment
+[2024.05.30-12.22.01:039][259]EditorErrors: New page: Actor attachment
+[2024.05.30-12.22.02:929][456]EditorErrors: New page: Actor attachment
+[2024.05.30-12.22.05:927][765]EditorErrors: New page: Actor attachment
+[2024.05.30-12.22.32:180][509]Cmd: DUPLICATE
+[2024.05.30-12.22.32:180][509]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.22.47:611][223]Cmd: DUPLICATE
+[2024.05.30-12.22.47:611][223]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.23.46:366][178]Cmd: DUPLICATE
+[2024.05.30-12.23.46:366][178]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.23.58:930][543]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0
+[2024.05.30-12.23.59:023][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-12.23.59:023][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-12.23.59:725][543]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2024.05.30-12.24.01:212][638]LogSlate: Window 'ogAwj_LOD0' being destroyed
+[2024.05.30-12.24.01:215][638]LogSlate: Window 'ogAwj_LOD0' being destroyed
+[2024.05.30-12.24.01:260][638]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-12.24.01:260][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-12.24.03:015][844]Cmd: DUPLICATE
+[2024.05.30-12.24.03:015][844]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.24.57:484][882]Cmd: DUPLICATE
+[2024.05.30-12.24.57:484][882]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.25.36:077][ 61]Cmd: DUPLICATE
+[2024.05.30-12.25.36:077][ 61]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.25.52:501][856]Cmd: DUPLICATE
+[2024.05.30-12.25.52:501][856]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.26.09:863][725]Cmd: DUPLICATE
+[2024.05.30-12.26.09:863][725]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.26.27:782][768]Cmd: DUPLICATE
+[2024.05.30-12.26.27:782][768]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.27.07:197][198]Cmd: DUPLICATE
+[2024.05.30-12.27.07:197][198]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.27.40:173][861]Cmd: DUPLICATE
+[2024.05.30-12.27.40:173][861]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.27.57:407][754]Cmd: DUPLICATE
+[2024.05.30-12.27.57:407][754]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.28.05:491][617]Cmd: DUPLICATE
+[2024.05.30-12.28.05:491][617]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.28.32:683][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.30-12.28.32:701][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto3
+[2024.05.30-12.28.32:701][603]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_Layout_Auto3BD10B1B84F4872D6911F2C9EB6F91DFA.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto3.umap'
+[2024.05.30-12.28.32:702][603]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto3.umap is in the /Temp path, will not scan.
+[2024.05.30-12.28.32:702][603]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto3 is in the /Temp path, will not scan.
+[2024.05.30-12.28.32:702][603]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto3 is in the /Temp path, will not scan.
+[2024.05.30-12.28.32:702][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.036
+[2024.05.30-12.28.32:702][603]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2024.05.30-12.29.03:048][882]Cmd: DUPLICATE
+[2024.05.30-12.29.03:048][882]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.30.23:902][120]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.26:433][412]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.28:501][611]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.30:596][830]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.32:301][ 21]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.34:726][294]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.36:662][502]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.38:566][719]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.41:122][  7]EditorErrors: New page: Actor attachment
+[2024.05.30-12.30.57:648][898]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.31.32:137][495]Cmd: TRANSACTION UNDO
+[2024.05.30-12.31.32:137][495]LogEditorTransaction: Undo Scale Elements
+[2024.05.30-12.31.46:586][  8]Cmd: DUPLICATE
+[2024.05.30-12.31.46:586][  8]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.31.46:586][  8]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.05.30-12.32.01:289][680]Cmd: DUPLICATE
+[2024.05.30-12.32.01:289][680]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.32.15:172][181]Cmd: DUPLICATE
+[2024.05.30-12.32.15:172][181]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.32.35:639][322]Cmd: DUPLICATE
+[2024.05.30-12.32.35:639][322]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.33.39:308][134]Cmd: DELETE
+[2024.05.30-12.33.39:308][134]Cmd: ACTOR DELETE
+[2024.05.30-12.33.39:310][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-12.33.39:327][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.30-12.33.39:331][134]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.05.30-12.33.39:771][173]Cmd: DELETE
+[2024.05.30-12.33.39:771][173]Cmd: ACTOR DELETE
+[2024.05.30-12.33.39:773][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-12.33.39:786][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.30-12.33.39:788][173]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.05.30-12.33.41:329][350]Cmd: DELETE
+[2024.05.30-12.33.41:329][350]Cmd: ACTOR DELETE
+[2024.05.30-12.33.41:331][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-12.33.41:346][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.30-12.33.41:348][350]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.05.30-12.34.21:751][644]Cmd: DUPLICATE
+[2024.05.30-12.34.21:751][644]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.35.16:588][885]Cmd: DUPLICATE
+[2024.05.30-12.35.16:588][885]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.35.52:506][955]Cmd: DUPLICATE
+[2024.05.30-12.35.52:506][955]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.36.51:949][323]Cmd: DUPLICATE
+[2024.05.30-12.36.51:949][323]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.37.56:565][105]Cmd: DUPLICATE
+[2024.05.30-12.37.56:565][105]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.38.29:309][821]Cmd: DUPLICATE
+[2024.05.30-12.38.29:309][821]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.39.15:397][758]Cmd: DUPLICATE
+[2024.05.30-12.39.15:397][758]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.39.44:294][923]Cmd: DUPLICATE
+[2024.05.30-12.39.44:294][923]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.40.38:897][866]Cmd: DUPLICATE
+[2024.05.30-12.40.38:897][866]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.41.07:136][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.30-12.41.07:147][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-12.41.07:195][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.30-12.41.07:212][ 28]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Sublevels/Level_Layout
+[2024.05.30-12.41.07:213][ 28]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_LayoutD6FBF5194847DBC532CA8DABE0AE6FDE.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Sublevels/Level_Layout.umap'
+[2024.05.30-12.41.07:221][ 28]LogFileHelpers: Saving map 'Level_Layout' took 0.040
+[2024.05.30-12.41.07:244][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms
+[2024.05.30-12.41.07:248][ 28]AssetCheck: New page: Asset Save: Level_Layout
+[2024.05.30-12.41.07:248][ 28]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout
+[2024.05.30-12.41.31:148][556]Cmd: DUPLICATE
+[2024.05.30-12.41.31:148][556]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.42.10:121][921]Cmd: DUPLICATE
+[2024.05.30-12.42.10:121][921]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.45.30:272][126]Cmd: DUPLICATE
+[2024.05.30-12.45.30:272][126]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.46.03:531][800]Cmd: DUPLICATE
+[2024.05.30-12.46.03:531][800]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.46.14:267][996]Cmd: DUPLICATE
+[2024.05.30-12.46.14:267][996]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.46.29:668][688]Cmd: DUPLICATE
+[2024.05.30-12.46.29:668][688]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.46.46:626][663]Cmd: DUPLICATE
+[2024.05.30-12.46.46:626][663]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.46.59:656][ 68]Cmd: DUPLICATE
+[2024.05.30-12.46.59:656][ 68]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.47.16:276][905]Cmd: DUPLICATE
+[2024.05.30-12.47.16:276][905]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.47.24:185][753]Cmd: DUPLICATE
+[2024.05.30-12.47.24:185][753]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.47.29:015][287]Cmd: DUPLICATE
+[2024.05.30-12.47.29:015][287]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.47.40:676][545]Cmd: DUPLICATE
+[2024.05.30-12.47.40:676][545]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.47.55:631][222]Cmd: DUPLICATE
+[2024.05.30-12.47.55:632][222]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.48.12:751][ 53]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans_2k/3D_Asset/20_Grey_Sandstone_ogAwj/ogAwj_LOD0.ogAwj_LOD0
+[2024.05.30-12.48.12:783][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-12.48.12:784][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-12.48.13:216][ 53]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2024.05.30-12.48.14:539][144]LogSlate: Window 'ogAwj_LOD0' being destroyed
+[2024.05.30-12.48.14:542][144]LogSlate: Window 'ogAwj_LOD0' being destroyed
+[2024.05.30-12.48.14:574][144]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-12.48.14:574][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-12.48.16:265][343]Cmd: DUPLICATE
+[2024.05.30-12.48.16:265][343]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.48.27:258][530]LogDerivedDataCache: C:/Users/Billy Chapman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.185 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8936 files in 11210 folders with total size 3693 MiB.
+[2024.05.30-12.48.48:182][868]Cmd: DUPLICATE
+[2024.05.30-12.48.48:182][868]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.48.58:201][935]Cmd: DUPLICATE
+[2024.05.30-12.48.58:201][935]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.49.21:476][471]EditorErrors: New page: Actor attachment
+[2024.05.30-12.49.24:069][745]EditorErrors: New page: Actor attachment
+[2024.05.30-12.49.27:209][ 85]EditorErrors: New page: Actor attachment
+[2024.05.30-12.49.30:135][398]EditorErrors: New page: Actor attachment
+[2024.05.30-12.49.33:620][767]EditorErrors: New page: Actor attachment
+[2024.05.30-12.50.08:531][557]Cmd: DUPLICATE
+[2024.05.30-12.50.08:531][557]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.50.20:808][784]Cmd: DUPLICATE
+[2024.05.30-12.50.20:808][784]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.51.17:067][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.30-12.51.17:094][869]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto4
+[2024.05.30-12.51.17:094][869]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_Layout_Auto4E25F531A46581D7F90966C89E79F2EB9.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto4.umap'
+[2024.05.30-12.51.17:095][869]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto4.umap is in the /Temp path, will not scan.
+[2024.05.30-12.51.17:095][869]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto4 is in the /Temp path, will not scan.
+[2024.05.30-12.51.17:095][869]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto4 is in the /Temp path, will not scan.
+[2024.05.30-12.51.17:096][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.044
+[2024.05.30-12.51.17:096][869]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.05.30-12.51.25:287][629]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.56.49:670][974]Cmd: DUPLICATE
+[2024.05.30-12.56.49:670][974]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.57.03:194][388]Cmd: TRANSACTION UNDO
+[2024.05.30-12.57.03:194][388]LogEditorTransaction: Undo Scale Elements
+[2024.05.30-12.57.31:322][192]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.57.34:814][433]Cmd: DUPLICATE
+[2024.05.30-12.57.34:814][433]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.57.44:440][451]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.57.56:057][282]Cmd: DUPLICATE
+[2024.05.30-12.57.56:057][282]Cmd: ACTOR DUPLICATE
+[2024.05.30-12.58.27:458][517]Cmd: TRANSACTION UNDO
+[2024.05.30-12.58.27:458][517]LogEditorTransaction: Undo Scale Elements
+[2024.05.30-12.59.14:791][583]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.59.47:670][ 94]Cmd: TRANSACTION UNDO
+[2024.05.30-12.59.47:672][ 94]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.30-12.59.48:180][105]Cmd: TRANSACTION UNDO
+[2024.05.30-12.59.48:180][105]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.30-12.59.49:746][249]Cmd: TRANSACTION UNDO
+[2024.05.30-12.59.49:746][249]LogEditorTransaction: Undo Clicking on Actors
+[2024.05.30-12.59.49:853][250]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2024.05.30-12.59.50:195][266]Cmd: TRANSACTION UNDO
+[2024.05.30-12.59.50:195][266]LogEditorTransaction: Undo Move Elements
+[2024.05.30-12.59.50:578][285]Cmd: TRANSACTION UNDO
+[2024.05.30-12.59.50:578][285]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.00.01:753][359]EditorErrors: New page: Actor attachment
+[2024.05.30-13.00.04:176][617]EditorErrors: New page: Actor attachment
+[2024.05.30-13.00.09:836][267]EditorErrors: New page: Actor attachment
+[2024.05.30-13.00.41:853][743]EditorErrors: New page: Actor attachment
+[2024.05.30-13.00.57:326][314]EditorErrors: New page: Actor attachment
+[2024.05.30-13.01.00:693][673]EditorErrors: New page: Actor attachment
+[2024.05.30-13.01.03:592][980]EditorErrors: New page: Actor attachment
+[2024.05.30-13.01.08:883][537]EditorErrors: New page: Actor attachment
+[2024.05.30-13.01.12:702][956]EditorErrors: New page: Actor attachment
+[2024.05.30-13.02.03:532][449]Cmd: DUPLICATE
+[2024.05.30-13.02.03:532][449]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.03.00:853][745]Cmd: TRANSACTION UNDO
+[2024.05.30-13.03.00:853][745]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.03.07:041][294]Cmd: DUPLICATE
+[2024.05.30-13.03.07:041][294]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.03.23:927][128]Cmd: DUPLICATE
+[2024.05.30-13.03.23:927][128]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.03.54:764][345]Cmd: DUPLICATE
+[2024.05.30-13.03.54:764][345]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.04.09:114][851]Cmd: DUPLICATE
+[2024.05.30-13.04.09:114][851]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.05.24:802][ 54]Cmd: DUPLICATE
+[2024.05.30-13.05.24:802][ 54]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.05.36:708][363]Cmd: DUPLICATE
+[2024.05.30-13.05.36:708][363]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.07.03:662][337]Cmd: DUPLICATE
+[2024.05.30-13.07.03:662][337]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.07.48:364][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.30-13.07.48:388][323]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto5
+[2024.05.30-13.07.48:389][323]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_Layout_Auto5035059CD472D9CC19EC085919472DE05.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto5.umap'
+[2024.05.30-13.07.48:390][323]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto5.umap is in the /Temp path, will not scan.
+[2024.05.30-13.07.48:390][323]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto5 is in the /Temp path, will not scan.
+[2024.05.30-13.07.48:390][323]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto5 is in the /Temp path, will not scan.
+[2024.05.30-13.07.48:390][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.061
+[2024.05.30-13.07.48:390][323]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2024.05.30-13.08.24:517][507]Cmd: DUPLICATE
+[2024.05.30-13.08.24:517][507]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.08.29:493][  1]Cmd: DUPLICATE
+[2024.05.30-13.08.29:493][  1]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.08.37:823][902]Cmd: DUPLICATE
+[2024.05.30-13.08.37:823][902]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.08.45:353][669]Cmd: DUPLICATE
+[2024.05.30-13.08.45:353][669]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.09.51:363][189]Cmd: DUPLICATE
+[2024.05.30-13.09.51:363][189]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.10.02:452][366]Cmd: DUPLICATE
+[2024.05.30-13.10.02:452][366]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.10.13:503][546]Cmd: DUPLICATE
+[2024.05.30-13.10.13:503][546]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.10.35:219][922]Cmd: DUPLICATE
+[2024.05.30-13.10.35:219][922]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.11.03:762][146]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.05.30-13.11.03:762][146]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.05.30-13.11.09:785][459]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2024.05.30-13.11.09:788][459]Message dialog closed, result: Cancel, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2024.05.30-13.11.09:789][459]LogEditor: Attempting to add actor of class 'PointLight' to level at 14688.88,-10980.40,6505.70
+[2024.05.30-13.11.11:130][610]Cmd: DELETE
+[2024.05.30-13.11.11:130][610]Cmd: ACTOR DELETE
+[2024.05.30-13.11.11:133][610]LogEditorActor: Deleted Actor: PointLight
+[2024.05.30-13.11.11:147][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.30-13.11.11:150][610]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.05.30-13.11.20:620][687]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.05.30-13.11.20:620][687]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.05.30-13.11.21:816][817]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.05.30-13.11.21:816][817]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.05.30-13.15.13:304][490]EditorErrors: New page: Actor attachment
+[2024.05.30-13.15.40:353][302]Cmd: DUPLICATE
+[2024.05.30-13.15.40:354][302]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.15.51:343][519]Cmd: DUPLICATE
+[2024.05.30-13.15.51:343][519]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.16.14:094][946]Cmd: DUPLICATE
+[2024.05.30-13.16.14:094][946]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.17.35:778][879]Cmd: DUPLICATE
+[2024.05.30-13.17.35:778][879]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.17.47:425][ 77]Cmd: DUPLICATE
+[2024.05.30-13.17.47:425][ 77]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.18.20:965][876]Cmd: TRANSACTION UNDO
+[2024.05.30-13.18.20:965][876]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.18.53:040][458]Cmd: DUPLICATE
+[2024.05.30-13.18.53:040][458]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.19.14:361][670]Cmd: DUPLICATE
+[2024.05.30-13.19.14:361][670]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.19.30:940][325]Cmd: DUPLICATE
+[2024.05.30-13.19.30:940][325]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.19.54:046][778]Cmd: DUPLICATE
+[2024.05.30-13.19.54:046][778]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.20.08:310][312]Cmd: DUPLICATE
+[2024.05.30-13.20.08:310][312]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.20.14:883][989]Cmd: DUPLICATE
+[2024.05.30-13.20.14:883][989]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.21.00:880][940]Cmd: DUPLICATE
+[2024.05.30-13.21.00:880][940]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.21.42:227][996]Cmd: DUPLICATE
+[2024.05.30-13.21.42:227][996]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.22.48:993][ 79]Cmd: POLY SELECT ALL
+[2024.05.30-13.22.53:835][533]Cmd: DUPLICATE
+[2024.05.30-13.22.53:835][533]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.23.57:663][309]Cmd: DELETE
+[2024.05.30-13.23.57:663][309]Cmd: ACTOR DELETE
+[2024.05.30-13.23.57:666][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-13.23.57:683][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.30-13.23.57:688][309]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.05.30-13.24.08:705][344]Cmd: DELETE
+[2024.05.30-13.24.08:705][344]Cmd: ACTOR DELETE
+[2024.05.30-13.24.08:708][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-13.24.08:721][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.30-13.24.08:724][344]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.05.30-13.24.57:498][673]Cmd: DUPLICATE
+[2024.05.30-13.24.57:498][673]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.25.52:970][316]Cmd: POLY SELECT ALL
+[2024.05.30-13.27.38:539][ 87]Cmd: DUPLICATE
+[2024.05.30-13.27.38:539][ 87]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.28.38:663][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.30-13.28.38:721][215]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto6
+[2024.05.30-13.28.38:721][215]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_Layout_Auto6FC147E5341DE284E80FB8B86B134F49F.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto6.umap'
+[2024.05.30-13.28.38:723][215]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto6.umap is in the /Temp path, will not scan.
+[2024.05.30-13.28.38:723][215]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto6 is in the /Temp path, will not scan.
+[2024.05.30-13.28.38:723][215]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Submerged/Levels/Game/Sublevels/Level_Layout_Auto6 is in the /Temp path, will not scan.
+[2024.05.30-13.28.38:723][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Submerged/Levels/Game/Main_Game' took 0.082
+[2024.05.30-13.28.38:723][215]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2024.05.30-13.29.04:349][879]Cmd: DUPLICATE
+[2024.05.30-13.29.04:349][879]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.29.34:324][984]Cmd: DUPLICATE
+[2024.05.30-13.29.34:324][984]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.30.25:657][810]Cmd: DUPLICATE
+[2024.05.30-13.30.25:657][810]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.30.37:936][134]Cmd: DELETE
+[2024.05.30-13.30.37:936][134]Cmd: ACTOR DELETE
+[2024.05.30-13.30.37:941][134]LogEditorActor: Deleted Actor: SpotLight
+[2024.05.30-13.30.37:955][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.30-13.30.37:959][134]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.05.30-13.30.43:498][778]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.05.30-13.30.43:498][778]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.05.30-13.30.44:605][897]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.05.30-13.30.44:605][897]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.05.30-13.31.33:793][934]Cmd: DUPLICATE
+[2024.05.30-13.31.33:793][934]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.34.27:694][186]Cmd: DELETE
+[2024.05.30-13.34.27:695][186]Cmd: ACTOR DELETE
+[2024.05.30-13.34.27:699][186]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-13.34.27:713][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.30-13.34.27:716][186]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.05.30-13.35.51:899][ 36]Cmd: DUPLICATE
+[2024.05.30-13.35.51:899][ 36]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.36.20:341][ 45]Cmd: DUPLICATE
+[2024.05.30-13.36.20:341][ 45]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.36.29:800][  7]Cmd: POLY SELECT ALL
+[2024.05.30-13.36.35:024][511]Cmd: DUPLICATE
+[2024.05.30-13.36.35:024][511]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.36.49:108][973]Cmd: DUPLICATE
+[2024.05.30-13.36.49:108][973]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.37.01:874][347]Cmd: DUPLICATE
+[2024.05.30-13.37.01:874][347]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.37.19:193][101]Cmd: DUPLICATE
+[2024.05.30-13.37.19:193][101]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.37.28:460][ 21]Cmd: POLY SELECT ALL
+[2024.05.30-13.37.31:770][303]Cmd: DUPLICATE
+[2024.05.30-13.37.31:770][303]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.37.39:456][103]Cmd: DUPLICATE
+[2024.05.30-13.37.39:456][103]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.38.01:438][498]Cmd: DUPLICATE
+[2024.05.30-13.38.01:438][498]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.38.21:105][402]Cmd: DUPLICATE
+[2024.05.30-13.38.21:105][402]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.38.37:086][164]Cmd: DUPLICATE
+[2024.05.30-13.38.37:086][164]Cmd: ACTOR DUPLICATE
+[2024.05.30-13.39.40:998][144]Cmd: DELETE
+[2024.05.30-13.39.40:998][144]Cmd: ACTOR DELETE
+[2024.05.30-13.39.41:002][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.30-13.39.41:016][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.30-13.39.41:020][144]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.05.30-13.40.02:140][559]Cmd: DELETE
+[2024.05.30-13.40.02:140][559]Cmd: ACTOR DELETE
+[2024.05.30-13.40.02:143][559]LogEditorActor: Deleted Actor: PointLight
+[2024.05.30-13.40.02:155][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.30-13.40.02:159][559]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.05.30-13.40.17:868][193]Cmd: TRANSACTION UNDO
+[2024.05.30-13.40.17:868][193]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.40.18:482][212]Cmd: TRANSACTION UNDO
+[2024.05.30-13.40.18:482][212]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.40.32:269][653]Cmd: TRANSACTION UNDO
+[2024.05.30-13.40.32:269][653]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.40.36:387][ 17]Cmd: TRANSACTION UNDO
+[2024.05.30-13.40.36:387][ 17]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.40.50:158][384]Cmd: TRANSACTION UNDO
+[2024.05.30-13.40.50:159][384]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.40.57:637][147]Cmd: TRANSACTION UNDO
+[2024.05.30-13.40.57:637][147]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.42.33:164][802]Cmd: TRANSACTION UNDO
+[2024.05.30-13.42.33:164][802]LogEditorTransaction: Undo Move Elements
+[2024.05.30-13.42.41:794][572]EditorErrors: New page: Actor attachment
+[2024.05.30-13.42.44:429][850]EditorErrors: New page: Actor attachment
+[2024.05.30-13.42.46:651][ 62]EditorErrors: New page: Actor attachment
+[2024.05.30-13.42.48:832][292]EditorErrors: New page: Actor attachment
+[2024.05.30-13.42.51:060][534]EditorErrors: New page: Actor attachment
+[2024.05.30-13.42.57:177][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.30-13.42.57:190][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-13.42.57:233][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.30-13.42.57:270][209]LogSavePackage: Moving output files for package: /Game/Submerged/Levels/Game/Sublevels/Level_Layout
+[2024.05.30-13.42.57:270][209]LogSavePackage: Moving '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Saved/Level_LayoutC77564CD443A93114F56DC83B66BE1A2.tmp' to '../../../../Users/Billy Chapman/Documents/GitHub/Submerged_GS/Submerged_GS/Content/Submerged/Levels/Game/Sublevels/Level_Layout.umap'
+[2024.05.30-13.42.57:278][209]LogFileHelpers: Saving map 'Level_Layout' took 0.058
+[2024.05.30-13.42.57:298][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 205 ms)
+[2024.05.30-13.42.57:302][209]AssetCheck: New page: Asset Save: Level_Layout
+[2024.05.30-13.42.57:302][209]LogContentValidation: Display: Validating /Script/Engine.World /Game/Submerged/Levels/Game/Sublevels/Level_Layout.Level_Layout
